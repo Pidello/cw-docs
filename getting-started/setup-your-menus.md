@@ -65,71 +65,71 @@ Las categorías representan una subsección de un menú y constan de platos. Por
 En algunos casos, es posible que necesites crear un menú independiente en lugar de utilizar una categoría. Por ejemplo, si tiene muchas categorías diferentes de bebidas, como licores, vinos, cervezas, refrescos, etc., es posible que desee crear un menú de bebidas separado para todas esas categorías en lugar de agregarlo a su menú de alimentos.
 {% endhint %}
 
-## Dishes
+## Platillos
 
-Dishes represent actual items that can be purchased. There are 2 types of dishes.
+Los platillos representan artículos reales que se pueden comprar. Hay 2 tipos de platillos.
 
-#### Standard Dishes
+#### Platillos Estándar
 
-A standard dish works as you would expect. You would use it to create items such:
+Un platillo estándar funciona como era de esperar. Lo usarías para crear elementos como:
 
-* Ham sandwich
-* Veggie pizza
-* Vanilla ice-cream
+* Sandwich de jamón
+* Pizza vegetariana
+* Helado de vainilla
 
-**Dish Ingredients**
+**Ingredientes de platillos**
 
-Standard dishes can contain a list of ingredients. The purpose of this is to allow customers to easily remove certain ingredients. A customer can remove the desired ingredients when they select the dish.
+Los platillos estándar pueden contener una lista de ingredientes. El propósito de esto es permitir a los clientes eliminar fácilmente ciertos ingredientes. Un cliente puede eliminar los ingredientes deseados cuando selecciona el plato.
 
-#### Combo Dishes
+#### Platillos en Combo
 
-Combos are a special type of dish that contain other dishes. It allows you to create a list of choices for customers to select various standard dishes. For example, you can create:
+Los combos son un tipo especial de platillo que contienen otros platos. Le permite crear una lista de opciones para que los clientes seleccionen varios platillos estándar. Por ejemplo, puedes crear:
 
-* Choose 3 pizzas, 2 sides and 2 drinks
-* Choose a burger, side and drink
+* Escoge 3 pizzas, 2 complementos y 2 bebidas
+* Escoge una Hamburguesa, complemento y bebida.
 
-To do this you will first need to have created some standard dishes. Then when creating your combo, you can create 4 choices, 3 pizza choices and one drink choice. You can then assign dish choices to the pizzas and drinks for customers to choose from.
-
-{% hint style="info" %}
-Combo dishes cannot contain option sets or ingredients directly. Instead when a customer chooses a standard dish within a combo, if the chosen standard dish has any option sets assigned to it, a user can customize it accordingly.
-{% endhint %}
-
-#### Dish Availability & Status
-
-There are 3 statuses available for a dish. They are:
-
-* Hidden - hides dish from the menu
-* Available - shows dish from the menu and allows ordering
-* Out of stock - prevents ordering and shows out of stock on the dish
-
-In the admin dashboard, you can edit the status of a dish by checking the tickbox on the left of it. Then select the desired status from the popup menu.
-
-## Option Sets
-
-All **dish customization is done using option sets**. Option sets are a configurable set of options that can be assigned to any number of dishes. With option sets, you are able to create requirements such as:
-
-* Select your pizza crust
-* Select one or more sauces
-* Select at least 4 toppings
+Para ello primero necesitarás haber creado algunos platillos estándar. Luego, al crear tu combo, puedes crear 4 opciones, 3 opciones de pizza y una opción de bebida. Luego puede asignar opciones de platillos a las pizzas y bebidas para que los clientes elijan.
 
 {% hint style="info" %}
-To learn how to create an option set that meets your requirements, read the descriptions of each of the settings available when creating an option set. Each setting is explained in detail. Alternatively, watch our menu setup video above to see us create the above examples.
+Los platos combinados no pueden contener conjuntos de opciones o ingredientes directamente. En cambio, cuando un cliente elige un plato estándar dentro de un combo, si el plato estándar elegido tiene algún conjunto de opciones asignado, el usuario puede personalizarlo en consecuencia.
 {% endhint %}
 
-## Dish Tags
+#### Disponibilidad y estado del platillo
 
-Tags allow you to highly particular attributes about a dish with a fully customizable visual indicator. You can create tags for attributes such as:
+Hay 3 estados disponibles para un plato. Ellos son:
 
-* Spicy
-* Vegan
-* Gluten free
+* Oculto: oculta el platillo del menú.
+* Disponible: muestra el platillo del menú y permite realizar pedidos.
+* Agotado: evita realizar pedidos y muestra el producto agotado en el platillo.
 
-## Common Menu Problems
+En el panel de administración, puede editar el estado de un platillo marcando la casilla a la izquierda. Luego seleccione el estado deseado en el menú emergente.
 
-### **No menu or categories showing under the store**
+## Sets de Opciones
 
-For your menu to display in your online store, make sure to add at least one category and one dish to it.
+Toda la personalización de los platillos se realiza mediante conjuntos de opciones. Los conjuntos de opciones son un conjunto configurable de opciones que se pueden asignar a cualquier cantidad de platillos. Con los conjuntos de opciones, puede crear requisitos como:
 
-### **Dish images to large**
+* Selecciona tu masa de pizza
+* Seleccione una o más salsas
+* Seleccione al menos 4 ingredientes
 
-We highly recommend that you use the website [https://www.birme.net](https://www.birme.net) or [https://tinypng.com/](https://tinypng.com/) to optimize all your images. Given that the maximum image width is only around 600 pixels, it's best to make sure all your images are no wider than that. This is going to help significantly with your page load time especially for mobile customers.
+{% hint style="info" %}
+Para aprender cómo crear un conjunto de opciones que cumpla con sus requisitos, lea las descripciones de cada una de las configuraciones disponibles al crear un conjunto de opciones. Cada configuración se explica en detalle. Alternativamente, mire nuestro video de configuración del menú arriba para vernos crear los ejemplos anteriores.
+{% endhint %}
+
+## Etiquetas de Platillos
+
+Las etiquetas te permiten identificar atributos muy particulares de un plato con un indicador visual totalmente personalizable. Puede crear etiquetas para atributos como:
+
+* Picante
+* "Veggie"
+* Sin Gluten
+
+## Problemas comunes con Menús
+
+### No se muestran menús ni categorías debajo de la tienda
+
+Para que su menú se muestre en su tienda en línea, asegúrese de agregarle al menos una categoría y un platillo.
+
+### Imágenes de platos demasiado grandes
+
+Le recomendamos encarecidamente que utilice el sitio web https://www.birme.net o https://tinypng.com/ para optimizar todas sus imágenes. Dado que el ancho máximo de la imagen es sólo de unos 600 píxeles, es mejor asegurarse de que todas las imágenes no sean más anchas que eso. Esto ayudará significativamente con el tiempo de carga de su página, especialmente para los clientes de dispositivos móviles.
