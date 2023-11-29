@@ -1,28 +1,25 @@
 ---
 description: >-
-  Get started creating your account, restaurant and setting up your menus. Place
-  a test order and see the order management process.
+  Comience a crear su cuenta, restaurante y configurar sus menús. Realice un
+  pedido de prueba y vea el proceso de gestión de pedidos.
 ---
 
-# 10-Minute Quickstart
+# Inicio rápido de 10 minutos
 
 {% embed url="https://youtu.be/Cd171XS0IGI" %}
-Quickstart video tutorial
+Vídeo tutorial de inicio rápido
 {% endembed %}
 
-## Quick-start Steps
+## Pasos de inicio rápido
 
-1. Visit https://www.cloudwaitress.com and sign up for an account
-2. Once you are at the admin dashboard, press "Create New Restaurant"
-3. Fill out your restaurant details and create the restaurant
-4. Click on your new restaurant to see the restaurant dashboard
-5. On the left menu, visit the "Menus" section
-6. Create a menu, create a category and then create a standard dish under it
-7. On the left menu, click on "Orders" to view the order management interface
-8. Open up your online store in a new tab by pressing "Visit Store" on the left menu
-9. Place an order through your website
-10. See the order come through automatically on your orders page. Select the order and try changing the order status or wait time. Use the "Actions" select to delete the test order when done
+1. Visita https://www.pidello.paragonmedia.mx/ and Regístrate para una cuenta.
+2. En el menú de la izquierda, visita la sección "Menús"
+3. Cree un menú, cree una categoría y luego cree un plato estándar debajo de ella.
+4. En el menú de la izquierda, haga clic en "Pedidos" para ver la interfaz de gestión de pedidos.
+5. Abra su tienda en línea en una nueva pestaña presionando "Visitar tienda" en el menú de la izquierda.
+6. Realizar un pedido a través de su sitio web.
+7. Vea cómo el pedido se realiza automáticamente en su página de pedidos. Seleccione el pedido e intente cambiar el estado del pedido o el tiempo de espera. Utilice la selección "Acciones" para eliminar el pedido de prueba cuando haya terminado.
 
-## What's Next
+## ¿Qué sigue?
 
-At this point, you can customise the system as you please and start accepting orders. We recommend you continue reading the articles in this section. You will learn how to configure the system to your requirements and manage orders in-depth.
+En este punto, puede personalizar el sistema como desee y comenzar a aceptar pedidos. Te recomendamos seguir leyendo los artículos de esta sección. Aprenderá cómo configurar el sistema según sus requisitos y gestionar los pedidos en profundidad.
