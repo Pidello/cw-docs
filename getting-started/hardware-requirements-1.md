@@ -40,7 +40,7 @@ Dispositivos compatibles:
 
 Recomendamos encarecidamente utilizar un dispositivo Android o una tableta/computadora con Windows 10. Windows proporciona la mayor flexibilidad y permite la impresión inalámbrica de pedidos al mismo tiempo que se puede utilizar el panel de pedidos y reserva de mesas.
 
-### Worldwide
+### Mundialmente
 
 Las tabletas con Windows 10 son abundantes y baratas hoy en día. Algunas marcas notables incluyen:
 
@@ -53,9 +53,9 @@ Las tabletas con Windows 10 son abundantes y baratas hoy en día. Algunas marcas
 
 Puede usar cualquier impresora con controladores de Windows o Linux o cualquier impresora que funcione con ESCPOS usando Android, por lo que no está restringido solo a las impresoras que recomendamos.
 
-### Branded Printers
+### Impresoras de marca
 
-Organized from lowest to highest price.
+Organizado de menor a mayor precio.
 
 * [PushPrinter PX-90](https://www.pushprinter.com/#printers) - Disponible con Ethernet o Bluetooth (Recomendada)
 * Epson TM-T20 - Disponible con USB y Ethernet
@@ -72,4 +72,4 @@ NO recomendamos el uso de impresoras Star con Android. Si está pensando en comp
 
 ## Configuración Ideal
 
-![Configuración Ideal](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1bzr2nv.png)
+![Configuración Ideal](../.gitbook/assets/tablet\_img.png)
