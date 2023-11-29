@@ -1,69 +1,68 @@
 ---
 description: >-
-  To accept orders online, you need to set up your online menu. You can create
-  and manage all your menus under the "Menus" section in the restaurant
-  dashboard.
+  Para aceptar pedidos en línea, debe configurar su menú en línea. Puede crear y
+  administrar todos sus menús en la sección "Menús" en el panel del restaurante.
 ---
 
-# Setup Your Menus
+# Configura tu menú
 
 {% embed url="https://youtu.be/Nyyr2vwB1Io" %}
 Menu setup video tutorial
 {% endembed %}
 
-## Setup Process
+## Proceso de configuración
 
-Menus are organized in a tree structure. Menus contain categories and categories contain dishes. The general setup process is as follows.
+Los menús están organizados en una estructura de árbol. Los menús contienen categorías y las categorías contienen platos. El proceso de configuración general es el siguiente.
 
-1. Create a menu
-2. Create all the categories under the menu
-3. Create dishes under the categories
-4. Create option-sets to add customization to dishes
-5. Create dish tags to highlight attributes of particular dishes
+1. Crear Menú
+2. Crear todas las categorías bajo el menú.
+3. Crear platillos bajo las categorías.
+4. Cree conjuntos de opciones para agregar personalización a los platillos.
+5. Cree etiquetas de platillos para resaltar los atributos de platillos particulares.
 
 {% hint style="info" %}
-You will likely only need one menu. Multiple menus are useful if certain items are restricted in particular ways. You may need to create a "Breakfast" menu or a "Delivery" menu depending on your requirements
+Probablemente solo necesitarás un menú. Múltiples menús son útiles si ciertos elementos están restringidos de manera particular. Es posible que necesites crear un menú de "Desayuno" o un menú de "Entrega" según tus requisitos.
 {% endhint %}
 
-## Example Menu Structure
+## Ejemplo de estructura de Menú
 
 ```
-- Menu: Main menu
--- Category: Pizzas
----- Dish: Ham & Cheese
----- Dish: Margrita
----- Dish: Veggie Supreme
--- Category: Sides
----- Dish: Chicken Wings
----- Dish: Fries
--- Category: Drinks
----- Dish: Iced Tea
----- Dish: Cola
----- Dish: Water
+- Menú: Menú Principal
+-- Categoría: Pizzas
+---- Platillo: Jamón y queso
+---- Platillo: Margarita
+---- Platillo: Vegetariana Suprema
+-- Categoría: Complementos
+---- Platillo: Alitas
+---- Platillo: Papas fritas
+-- Categoría: Bebidas
+---- Platillo: Té Helado
+---- Platillo: Coca Cola
+---- Platillo: Agua
 ```
 
-## Menus
+## Menús
 
-These represent your actual real-life menus. Many stores have just one main menu that's always available. Others may have a lunch & dinner menu or a pickup only menu. You will need at least one menu for your online store to work.
+Estos representan sus menús de la vida real. Muchas tiendas tienen un solo menú principal que siempre está disponible. Otros pueden tener un menú de almuerzo y cena o un menú solo para recoger. Necesitarás al menos un menú para que tu tienda online funcione.
 
-Menu availability can depend on certain conditions such as order types (pickups, deliveries or dine-ins), order timings (now, later or pre-order only). They can also be restricted to certain days and timings.
+La disponibilidad del menú puede depender de ciertas condiciones, como tipos de pedidos (a recoger, entregas a domicilio o consumo en el restaurante), horarios de los pedidos (al momento o solo pedidos programados). También pueden restringirse a determinados días y horarios.
 
 {% hint style="info" %}
-If you only have one menu available, there is no need to place restrictions on it. You can restrict the system globally to your business rules and the menu will work according to that. Restricting a menu to certain conditions is only needed if you have multiple menus
+Si solo tiene un menú disponible, no es necesario imponerle restricciones. Puede restringir el sistema globalmente a sus reglas comerciales y el menú funcionará de acuerdo con eso. Solo es necesario restringir un menú a ciertas condiciones si tiene varios menús
 {% endhint %}
 
-## Categories
+## Categorías
 
-Categories represent a sub-section of a menu and consist of dishes. For example, if you have one standard menu, your categories might include:
+Las categorías representan una subsección de un menú y constan de platos. Por ejemplo, si tiene un menú estándar, sus categorías podrían incluir:
 
-* Starters
-* Mains
-* Sides
-* Drinks
-* Desserts
+* Entradas
+* Principales
+* Complementos
+* Bebidas
+* Postres
 
 {% hint style="info" %}
-In some instances, you may need to create a separate menu instead of using a category. For example, If you have many different categories of drinks, such as spirits, wines, beers, sodas, etc. You might want to create a separate drinks menu for all those categories instead of adding it to your food menu.
+En algunos casos, es posible que necesites crear un menú independiente en lugar de utilizar una categoría. Por ejemplo, si tiene muchas categorías diferentes de bebidas, como licores, vinos, cervezas, refrescos, etc., es posible que desee crear un menú de bebidas separado para todas esas categorías en lugar de agregarlo a su menú de alimentos.
 {% endhint %}
 
 ## Dishes
