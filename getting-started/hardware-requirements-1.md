@@ -1,79 +1,75 @@
 ---
 description: >-
-  Learn what devices and printers you can use with our system. We also have a
-  list of recommended devices
+  Conozca qué dispositivos e impresoras puede utilizar con nuestro sistema.
+  También tenemos una lista de dispositivos recomendados.
 ---
 
-# Hardware Requirements
+# Requerimientos de hardware
 
-## Stable Internet Connection
+## Conexión a Internet estable
 
-Every aspect of the system runs online and therefore requires you to be connected to the internet to receive orders. Here are a few recommendations about how to set up your internet:
+Todos los aspectos del sistema se ejecutan en línea y, por lo tanto, requieren que esté conectado a Internet para recibir pedidos. A continuación se ofrecen algunas recomendaciones sobre cómo configurar Internet:
 
-* Use your own internet connection instead of a shared connection so you have greater control
-* Keep a 3G / 4G mobile internet connection as a backup in-case there is an interruption with your normal connection. Consider using your phone on hotspot mode for such instances.
-* Consider exclusively using a 3G / 4G mobile internet connection. Certain countries have a much more reliable mobile network such as Australia.
+* Utilice su propia conexión a Internet en lugar de una conexión compartida para tener un mayor control.
+* Mantenga una conexión a Internet móvil 3G/4G/5G como respaldo en caso de que haya una interrupción en su conexión normal. Considere usar su teléfono en modo "Compartir internet" para tales casos.
+* Considere utilizar exclusivamente una conexión a Internet móvil 3G/4G/5G.
 
 {% hint style="warning" %}
-IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that cloudwaitress.com is white-listed on your firewall to avoid connection issues to our servers.
+En ocasiones, el personal de Sistemas instala un firewall de Internet para que las pequeñas empresas eviten el acceso a contenido dañino. Asegúrese de que pidello.com esté en la lista blanca de su firewall para evitar problemas de conexión a nuestros servidores.
 {% endhint %}
 
-## Computer or Tablet
+## Computadora o Tablet
 
-To manage your online store and orders, you will need a device that can access the internet. At a minimum, we recommend using a tablet or bigger. Phone access is possible but may be limiting.
+Para administrar su tienda en línea y sus pedidos, necesitará un dispositivo con acceso a Internet. Como mínimo, recomendamos utilizar una tableta o más grande. El acceso en tu celular es posible, pero puede ser limitante.
 
-## Printer
+## Impresora térmica
 
 {% hint style="info" %}
-This is optional but very helpful for managing orders
+Esto es opcional pero muy útil para gestionar pedidos.
 {% endhint %}
 
-You can automatically or manually print new orders using any printer whose drivers are installed on a Android device, Windows or Linux PC. To clarify, this means if you can print from an application like Word or Notepad, then it's compatible with our service. We highly recommend using a thermal receipt printer.
+Puede imprimir nuevos pedidos de forma automática o manual utilizando cualquier impresora cuyos controladores estén instalados en un dispositivo Android, PC con Windows o Linux. Para aclarar, esto significa que si puedes imprimir desde una aplicación como Word, entonces es compatible con nuestro servicio. Recomendamos encarecidamente utilizar una impresora térmica de recibos.
 
-Compatible devices:
+Dispositivos compatibles:
 
 * Android 1.5, 1.6, 2, 3, 4
 * Windows - 7, 8, 10
 * Linux - requires NodeJS
 
-## Recommended Computers & Tablets
+## Computadoras y Tablets recomendadas
 
-We highly recommend using an Android device or Windows 10 tablet/computer.  Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
+Recomendamos encarecidamente utilizar un dispositivo Android o una tableta/computadora con Windows 10. Windows proporciona la mayor flexibilidad y permite la impresión inalámbrica de pedidos al mismo tiempo que se puede utilizar el panel de pedidos y reserva de mesas.
 
 ### Worldwide
 
-Windows 10 tablets are abundant and cheap these days. You can't go wrong choosing from one of the major brands. Some notable brands include:
+Las tabletas con Windows 10 son abundantes y baratas hoy en día. Algunas marcas notables incluyen:
 
-* Lenevo
+* Lenovo
 * ASUS
 * HP
 * Microsoft - Surface Pro Tablet
-* Chuwi - Decent Chinese brand, starting from around $200
 
-## Recommended Printers
+## Impresoras recomendadas
 
-You can use any printer with Windows or Linux drivers or any printer that works with ESCPOS using Android, so you are not restricted to just the printers we recommend.
+Puede usar cualquier impresora con controladores de Windows o Linux o cualquier impresora que funcione con ESCPOS usando Android, por lo que no está restringido solo a las impresoras que recomendamos.
 
 ### Branded Printers
 
 Organized from lowest to highest price.
 
-* [PushPrinter PX-90](https://www.pushprinter.com/#printers) - Available with Ethernet or Bluetooth \(Recommended\)
-* Epson TM-T20 - Available with USB or Ethernet
+* [PushPrinter PX-90](https://www.pushprinter.com/#printers) - Disponible con Ethernet o Bluetooth (Recomendada)
+* Epson TM-T20 - Disponible con USB y Ethernet
 * Epson TM-M30 - Bluetooth
-* Epson TM-T82-II-i - USB and Ethernet, supporting many connected devices
+* Epson TM-T82-II-i - USB y Ethernet, compatible con muchos dispositivos conectados.
 
-### Other Printers
+### Otras Impresoras
 
 {% hint style="warning" %}
-We do NOT recommend Star printers for use with Android.  If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
+NO recomendamos el uso de impresoras Star con Android. Si está pensando en comprar una impresora nueva, le sugerimos que evite las impresoras Star en este momento.
 {% endhint %}
 
-* Star Micronics TSP143 - Available as Bluetooth or USB or WIFI. 
+* Star Micronics TSP143 - Disponible en Bluetooth o USB o WIFI.
 
+## Configuración Ideal
 
-
-## Ideal Setup
-
-![Ideal setup](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1bzr2nv.png)
-
+![Configuración Ideal](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1bzr2nv.png)

@@ -1,11 +1,11 @@
 ---
 description: >-
-  Welcome to the CloudWaitress knowledge base. Here you will find articles to
-  help you setup and understand how our platform works. If you need assistance,
-  please do not hesitate to contact us.
+  Bienvenido a la base de conocimientos de Pidello. Aquí encontrarás artículos
+  que te ayudarán a configurar y comprender cómo funciona nuestra plataforma. Si
+  necesitas ayuda, no dudes en contactarnos.
 ---
 
-# Overview
+# Bienvenido
 
 {% content-ref url="getting-started/" %}
 [getting-started](getting-started/)
@@ -22,4 +22,3 @@ description: >-
 {% hint style="info" %}
 [Go back to CloudWaitress.com](https://www.cloudwaitress.com)
 {% endhint %}
-

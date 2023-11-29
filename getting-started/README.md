@@ -1,10 +1,11 @@
 ---
 description: >-
-  This section will take you through the process of creating your account,
-  setting up your restaurant, customizing your settings and managing orders.
+  Esta sección te guiará a través del proceso desde la creación de tu cuenta,
+  configuración de su restaurante, personalización de su configuración y
+  administración de pedidos.
 ---
 
-# Getting Started
+# Empezando
 
 {% content-ref url="hardware-requirements-1.md" %}
 [hardware-requirements-1.md](hardware-requirements-1.md)
