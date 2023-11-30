@@ -1,8 +1,8 @@
 ---
 description: >-
-  Additional guides explaining more detailed customization options within the
-  CloudWaitress platform.
+  Guías adicionales que explican opciones de personalización más detalladas
+  dentro de la plataforma Pidello.
 ---
 
-# Advanced Customization
+# Personalización de diseño - Avanzado
 

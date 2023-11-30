@@ -1,8 +1,8 @@
 ---
-description: How to Hide the Store Header Section in your CloudWaitress store
+description: Cómo ocultar la sección del encabezado de la tienda en tu tienda Pidello
 ---
 
-# Hide Store Header Section (image)
+# Ocultar sección de encabezado de tienda Header (imagen)
 
 **Date:** February 7, 2023
 
@@ -10,21 +10,21 @@ description: How to Hide the Store Header Section in your CloudWaitress store
 
 <figure><img src="../../.gitbook/assets/Remove Header Image.png" alt=""><figcaption><p>Before and after example of changing the header show setting</p></figcaption></figure>
 
-### 1. [Go to admin.cloudwaitress.com](https://admin.cloudwaitress.com/restaurant/RESsnHW7AjTKYMCr7aOF6NrP)
+### 1. Ve a[ admin.pidello.com](https://admin.cloudwaitress.com/restaurant/RESsnHW7AjTKYMCr7aOF6NrP)
 
-### 2. Click on Settings
+### 2. Haga click en configuración
 
 ![Step 2 screenshot](https://images.tango.us/workflows/afe3c9b8-6e7e-49f4-95c6-a31ea1e9e85d/steps/14e1c6b0-65fc-4a23-aef1-ac449a7de2b0/1e79efb1-6703-4949-a169-f2ecfd63220c.png?crop=focalpoint\&fit=crop\&fp-x=0.0197\&fp-y=0.4016\&fp-z=2.8943\&w=1200)
 
-### 3. Click on Website
+### 3. Haga click en Sitio Web
 
 ![Step 3 screenshot](https://images.tango.us/workflows/afe3c9b8-6e7e-49f4-95c6-a31ea1e9e85d/steps/59672dfc-e140-49ed-ad32-b2b7f6bf6a5e/4174fdd0-c123-4d79-870f-c311fd19266f.png?crop=focalpoint\&fit=crop\&fp-x=0.4616\&fp-y=0.1706\&fp-z=2.9135\&w=1200)
 
-### 4. Click on Header
+### 4. Haga click en Encabezado
 
 ![Step 4 screenshot](https://images.tango.us/workflows/afe3c9b8-6e7e-49f4-95c6-a31ea1e9e85d/steps/bdf520d6-dbe6-4d14-8ca8-210d4af44422/82d64d3f-3e8a-44c2-8939-656b0e781816.png?crop=focalpoint\&fit=crop\&fp-x=0.5102\&fp-y=0.4676\&fp-z=1.7413\&w=1200)
 
-### 5. Uncheck on
+### 5. Desmarcar&#x20;
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-02-07 at 2.56.47 pm.png" alt=""><figcaption></figcaption></figure>
 
