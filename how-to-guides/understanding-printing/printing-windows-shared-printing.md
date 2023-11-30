@@ -22,23 +22,23 @@ description: cómo guía para conectar una impresora USB
 
 ![](<../../.gitbook/assets/untitled-3 (3).png>)
 
-#### 5. Si la página de prueba no se imprime. Luego conecte e instale la impresora correctamente. Por favor mira : [Configuración de impresora](https://www.notion.so/18689e4654fe4978b20aeb82b581d81e).
+#### 7. Si la página de prueba no se imprime. Luego conecte e instale la impresora correctamente. Por favor mira : [Configuración de impresora](https://www.notion.so/18689e4654fe4978b20aeb82b581d81e).
 
-#### 6. Si la página de prueba se imprime, comparta la impresora con las siguientes configuraciones:
+#### 8. Si la página de prueba se imprime, comparta la impresora con las siguientes configuraciones:
 
 ![](<../../.gitbook/assets/untitled-4 (1).png>)
 
-#### 7. Dar click en "Aplicar"
+#### 9. Dar click en "Aplicar"
 
-#### 8. Abrir La aplicación [PushPrinter](https://pushprinter.com/#windows). Verifique que la configuración se muestre de la siguiente manera:
+#### 10. Abrir La aplicación [PushPrinter](https://pushprinter.com/#windows). Verifique que la configuración se muestre de la siguiente manera:
 
 ![](../../.gitbook/assets/untitled-5.png)
 
-#### 7. Ahora "Crear impresora" o "editar" su impresora existente:
+#### 11. Ahora "Crear impresora" o "editar" su impresora existente:
 
 ![](<../../.gitbook/assets/untitled-6 (4).png>)
 
-#### 8. Agregue configuraciones que incluyen: Clave API de la impresora recién creada, asegúrese de que el tipo de impresora sea Impresora compartida de Windows (ESCPOS). El nombre de la impresora compartida de Windows debe coincidir con el nombre de la impresora compartida que se agregó anteriormente.
+#### 12. Agregue configuraciones que incluyen: Clave API de la impresora recién creada, asegúrese de que el tipo de impresora sea Impresora compartida de Windows (ESCPOS). El nombre de la impresora compartida de Windows debe coincidir con el nombre de la impresora compartida que se agregó anteriormente.
 
 ![](<../../.gitbook/assets/untitled-7 (1).png>)
 
@@ -54,4 +54,4 @@ description: cómo guía para conectar una impresora USB
 
 **Nombre de la impresora compartida de Windows** - Esto debe coincidir EXACTAMENTE con el nombre de la impresora compartida que se agregó antes. Debes evitar espacios y caracteres especiales.
 
-#### 8. Luego presione 'Enviar impresión de prueba' y luego presione 'Crear impresora'.
+#### 13. Luego presione 'Enviar impresión de prueba' y luego presione 'Crear impresora'.
