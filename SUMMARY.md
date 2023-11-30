@@ -5,7 +5,7 @@
   * [Requerimientos de hardware](getting-started/hardware-requirements-1.md)
   * [Inicio rápido de 10 minutos](getting-started/10-minute-quickstart.md)
   * [Configura tu menú](getting-started/setup-your-menus.md)
-  * [Configure Your Services](getting-started/configure-your-services.md)
+  * [Configura tus Servicios](getting-started/configure-your-services.md)
   * [Customize Your Design](getting-started/customize-your-design.md)
   * [Managing Orders & Bookings](getting-started/managing-orders-and-bookings.md)
   * [Promoting Your Store](getting-started/promoting-your-store.md)
