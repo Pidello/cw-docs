@@ -1,56 +1,56 @@
 ---
-description: How to guide to print with a network printer
+description: Cómo guía para imprimir con una impresora de red
 ---
 
-# Printing - Windows Network Printing
+# Impresión - Impresión en red de Windows
 
-## **Network printing**
+## **Impresión en Red**
 
-1. Please go to the Windows Control Panel
+1. Vaya al Panel de control de Windows
 
 ![](<../../.gitbook/assets/untitled (1).png>)
 
-2\. Open Devices and Printers
+2\. Abrir dispositivos e impresoras
 
 ![](../../.gitbook/assets/untitled-1.png)
 
-3\. Right click and select 'Printer Properties'
+3\. Haga clic derecho y seleccione 'Propiedades de la impresora'
 
 ![](<../../.gitbook/assets/untitled-2 (5).png>)
 
-4\. If your printer is not showing use these instructions to set it up [Printer Set up](printing-add-a-printer-to-windows.md).
+4\. Si su impresora no aparece, utilice estas instrucciones para configurarla [Configuración de la impresora.](printing-add-a-printer-to-windows.md)
 
-5\. To test that the printer is working, please press Print Test Page
+5\. Para probar que la impresora está funcionando, presione Imprimir página de prueba.
 
 ![](<../../.gitbook/assets/untitled-3 (1).png>)
 
-6\. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+6\. Si la página de prueba no se imprime. Luego conecte e instale la impresora correctamente. Por favor mira: [Configuración de la impresora](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 
-7\. Open the PushPrinter for Windows program application
+7\. Abra la aplicación del programa PushPrinter para Windows.
 
-8\. Go to the 'settings' cog and select the default provider profile from the dropdown list.
+8\. Vaya al engranaje de 'configuración' y seleccione el perfil de proveedor predeterminado de la lista desplegable.
 
 ![](<../../.gitbook/assets/untitled-4 (2).png>)
 
-9\. Enable 'Automatically start PushPrinter'. (This allows the application to auto-start when resetting your machine).
+9\. Habilite 'Iniciar automáticamente PushPrinter'. (Esto permite que la aplicación se inicie automáticamente al reiniciar su máquina).
 
-10\. Press the printer button
+10\. Presione el botón de la impresora
 
 ![](../../.gitbook/assets/untitled-6.png)
 
-11\. Using the Create Printer button, create printer
+11\. Usando el botón Crear Impresora, cree una impresora.
 
 ![](<../../.gitbook/assets/untitled-7 (4).png>)
 
-12\. Add settings including API key from the printer just created.
+12\. Agregue configuraciones, incluida la clave API de la impresora recién creada.
 
 {% hint style="info" %}
-**For a network printer:**&#x20;
+**Para una impresora de red:**
 
-* Name the printer.&#x20;
-* Add API printer (found in the store printer settings),&#x20;
-* Set number of copies&#x20;
-* Add printer IP address and set port to 9100).
+* Nombra la impresora.
+* Agregar impresora API (que se encuentra en la configuración de la impresora de la tienda),
+* Establecer número de copias
+* Agregue la dirección IP de la impresora y configure el puerto en 9100).
 {% endhint %}
 
 ![](<../../.gitbook/assets/untitled-8 (3).png>)
@@ -74,4 +74,3 @@ description: How to guide to print with a network printer
 14\. Create printer
 
 15\. Go to your store and place a test order.
-

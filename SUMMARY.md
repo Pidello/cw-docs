@@ -21,7 +21,7 @@
     * [Ocultar sección de encabezado de tienda Header (imagen)](how-to-guides/design-customization-advanced/hide-store-header-section-image.md)
   * [Impresión de órdenes](how-to-guides/understanding-printing/README.md)
     * [Configurar la impresión para Android](how-to-guides/understanding-printing/setup-printing-for-android.md)
-    * [Printing - Windows Network Printing](how-to-guides/understanding-printing/printing-windows-network-printing.md)
+    * [Impresión - Impresión en red de Windows](how-to-guides/understanding-printing/printing-windows-network-printing.md)
     * [Printing - Windows Shared Printing](how-to-guides/understanding-printing/printing-windows-shared-printing.md)
     * [Printing - API Key](how-to-guides/understanding-printing/printing-api-key.md)
     * [Add a USB printer to Windows](how-to-guides/understanding-printing/printing-add-a-printer-to-windows.md)
