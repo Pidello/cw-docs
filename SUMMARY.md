@@ -7,7 +7,7 @@
   * [Configura tu menú](getting-started/setup-your-menus.md)
   * [Configura tus Servicios](getting-started/configure-your-services.md)
   * [Personaliza tu diseño](getting-started/customize-your-design.md)
-  * [Managing Orders & Bookings](getting-started/managing-orders-and-bookings.md)
+  * [Gestión de pedidos y reservas](getting-started/managing-orders-and-bookings.md)
   * [Promoting Your Store](getting-started/promoting-your-store.md)
 * [Guías](how-to-guides/README.md)
   * [Aceptar pagos en línea](how-to-guides/accepting-payments/README.md)
