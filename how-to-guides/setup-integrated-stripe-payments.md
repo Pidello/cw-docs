@@ -1,14 +1,14 @@
 ---
 description: >-
-  Learn how to setup Stripe+ payments.  This is our recommend solution for
-  online payments due to their streamlined setup, user experience and self
-  service options in our dashboard.
+  Aprenda a configurar pagos Stripe+. Esta es nuestra solución recomendada para
+  pagos en línea debido a su configuración optimizada, experiencia de usuario y
+  opciones de autoservicio en nuestro panel.
 ---
 
-# Setup Integrated Stripe Payments
+# Configurar Pagos integrados Stripe
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) to activate this feature.
+Envíe un correo electrónico a soporte@pidello.com para activar esta función.
 {% endhint %}
 
 {% content-ref url="using-stripe-integrated.md" %}

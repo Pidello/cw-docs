@@ -1,8 +1,8 @@
 ---
 description: >-
-  This section will take you through how to set-up specific features within
-  CloudWaitress.com.
+  Esta sección le explicará cómo configurar funciones específicas dentro de
+  Pidello.
 ---
 
-# How to Guides
+# Guías
 

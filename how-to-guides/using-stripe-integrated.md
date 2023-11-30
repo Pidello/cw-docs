@@ -1,39 +1,39 @@
 ---
 description: >-
-  Learn how to see Stripe payments, issues refunds and download payouts for
-  reconciliation.
+  Aprenda cómo ver los pagos de Stripe, emitir reembolsos y descargar pagos para
+  conciliación.
 ---
 
-# Using Stripe Integrated
+# Usando la integración Stripe+
 
-You can accept credit cards online using Stripe. It is currently supported in numerous countries with a variety of currencies.&#x20;
+Puede aceptar tarjetas de crédito en línea usando Stripe. Actualmente es compatible con numerosos países con una variedad de monedas.
 
-## How to use Stripe Integrated
+## Como usar la integración Stripe+
 
-* Go to Online Payments.
+* Ve a pagos en línea.
 
 ![](<../.gitbook/assets/image (8).png>)
 
 {% hint style="success" %}
-If you cannot see this option in your dashboard, please see [this page](setup-integrated-stripe-payments.md).
+Si no puede ver esta opción en su panel, consulte [esta página.](setup-integrated-stripe-payments.md)
 {% endhint %}
 
-* From the Online Payments; Refunds, Payments & Order Details are shown here.
+* Desde los Pagos en Línea; Los reembolsos, pagos y detalles del pedido se muestran aquí.
 
 ![Example of the integrated payments dashboard without customer data.](<../.gitbook/assets/image (7) (1) (1).png>)
 
-* For Refund - Click the refund button and choose reason then click “Refund”.
+* Para reembolso: haga clic en el botón de reembolso, elija el motivo y luego haga clic en "Reembolso".
 
 ![](<../.gitbook/assets/image (10) (1).png>)
 
-* For Payouts, just click the payout button at the upper right pane of the page.  You can also review your payouts in your stripe dashboard at [dashboard.stripe.com](https://dashboard.stripe.com)
+* Para pagos, simplemente haga clic en el botón de pago en el panel superior derecho de la página. También puede revisar sus pagos en su panel de control de Stripe en [dashboard.stripe.com](https://dashboard.stripe.com)
 
 ![](<../.gitbook/assets/image (12).png>)
 
-* Download the CSV Report to pull the payout report. &#x20;
+* Descargue el informe CSV para obtener el informe de pagos.
 
 {% hint style="info" %}
-Note that this can take a few mins to load after clicking the button
+Tenga en cuenta que esto puede tardar unos minutos en cargarse después de hacer clic en el botón.
 {% endhint %}
 
 ![](<../.gitbook/assets/image (11) (1).png>)

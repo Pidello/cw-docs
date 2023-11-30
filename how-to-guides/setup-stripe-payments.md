@@ -1,46 +1,48 @@
 ---
 description: >-
-  Learn how to setup Stripe, our recommend online payments provider due to their
-  streamlined setup and user experience
+  Aprenda cómo configurar Stripe, nuestro proveedor de pagos en línea
+  recomendado debido a su configuración optimizada y experiencia de usuario.
 ---
 
-# Setup Stripe Payments
+# Configurar pagos de Stripe
+
+
 
 {% hint style="success" %}
-We now recommend using [stripe+-integrated-payments.md](stripe+-integrated-payments.md "mention")
+Recomendamos usar [stripe+-integrated-payments.md](stripe+-integrated-payments.md "mention")
 {% endhint %}
 
-You can accept credit cards online using [Stripe](https://stripe.com/). It is currently supported in numerous countries with a variety of currencies. If Stripe is not supported in your country you can apply to try Stripe Atlas. Below is our simple guide on setting up Stripe and managing your account.
+Puedes aceptar pagos con tarjeta en línea usando [Stripe](https://stripe.com/). Actualmente es compatible con numerosos países con una variedad de monedas. Si Stripe no es compatible en tu país, puedes solicitar probar Stripe Atlas. A continuación se muestra nuestra guía sencilla sobre cómo configurar Stripe y administrar su cuenta.
 
-## How Stripe Payments Work
+## Cómo funcionan los pagos de Stripe
 
-When Stripe is enabled, customers can choose from the online payment option when checking out. If a customer selects "Credit Card", the credit card field will drop-down below.
+Cuando Stripe está habilitado, los clientes pueden elegir entre la opción de pago en línea al realizar el pago. Si un cliente selecciona "Tarjeta", el campo de la tarjeta de crédito/débito se desplegará a continuación.
 
 ![Stripe payment example](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_16wk7ks.png)
 
-## Connecting Your Stripe Account
+## Conectando tu cuenta Stripe
 
-1. Create an account on the Stripe website if you do not already have one
-2. Ensure you are viewing your live account and not your test account&#x20;
-3. Login to your account dashboard. On the left navigation, go to "Developers > API Keys"
-4. Next, open up your restaurant dashboard and navigate to "Settings > Payments > Stripe"
-5. Enable Stripe payments using the "Enable" switch
-6. Copy the "Publishable Key" and "Secret Key" from the Stripe dashboard into the restaurant dashboard
-7. Set your payment currency in the restaurant dashboard and save the settings
+1. Cree una cuenta en el sitio web de Stripe si aún no tiene una.
+2. Asegúrese de estar viendo su cuenta real y no su cuenta de prueba.
+3. Inicie sesión en el panel de su cuenta. En la navegación de la izquierda, vaya a "Desarrolladores > Claves API".
+4. A continuación, abre el panel de tu restaurante y navega hasta "Configuración > Pagos > Stripe".
+5. Habilite los pagos de Stripe usando el interruptor "Habilitar"
+6. Copie la "Clave publicable" y la "Clave secreta" del panel de Stripe al panel del restaurante.
+7. Configure su moneda de pago en el panel del restaurante y guarde la configuración.
 
 ![Stripe API keys](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_4cpfy8.png)
 
-## Testing Payments
+## Haciendo pruebas
 
-If you would like to do a test payment, copy your test API keys from Stripe. You can do this by toggling the "Viewing test data" switch.
+Si desea realizar un pago de prueba, copie sus claves API de prueba de Stripe. Puede hacerlo activando el interruptor "Ver datos de prueba".
 
 ![Stripe test data](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1bjx53a.png)
 
-Once this is done, you can use the credit card number "4242 4242 4242 4242" with any valid expiry, CVC and zip code. This card will allow you to make a dummy payment.
+Una vez hecho esto, podrá utilizar el número de tarjeta de crédito "4242 4242 4242 4242" con cualquier vencimiento válido, CVC y código postal. Esta tarjeta le permitirá realizar un pago ficticio.
 
-## Validating Your Stripe Account
+## Validando tu cuenta de Stripe
 
-To withdraw online payments to your bank, you will need to ensure your Stripe account is fully valid. Pleae, ensure you have completed all their required validations.
+Para retirar pagos en línea a su banco, deberá asegurarse de que su cuenta Stripe sea completamente válida. Por favor, asegúrese de haber completado todas las validaciones requeridas.
 
 ## Stripe Fee's
 

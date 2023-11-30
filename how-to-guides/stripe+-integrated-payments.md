@@ -1,29 +1,30 @@
 ---
 description: >-
-  Learn how to setup our integrated Stripe payments feature, allowing you to
-  manage your payments, refunds and payouts inside of your admin page.
+  Aprenda cómo configurar nuestra función integrada de pagos Stripe, que le
+  permite administrar sus pagos, reembolsos y pagos dentro de su página de
+  administración.
 ---
 
-# 🔐 Stripe+ Integrated Payments
+# 🔐 Pagos integrados Stripe+
 
-## About Stripe
+## Acerca de Stripe
 
 You can accept credit cards, Google pay and Apple pay online using Stripe. It is currently supported in numerous countries with a variety of currencies, which can be checked [here](https://stripe.com/global).
 
-## **About the Stripe+ Feature**
+## **Acerca de la función Stripe+**&#x20;
 
-Get the most from your online ordering system and enable Stripe+ to unlock multiple additional features inside your account.&#x20;
+Aproveche al máximo su sistema de pedidos en línea y habilite Stripe+ para desbloquear múltiples funciones adicionales dentro de su cuenta.
 
-Benefits of using our Stripe+ solution are as follows;
+Los beneficios de utilizar nuestra solución Stripe+ son los siguientes:
 
-* **See more detail** - full details of your payments right inside of your ordering dashboard.
-* **Partial refunds** - in addition to full refunds, you can action partial refunds right from an order.
-* **Payout reports** - Download detailed payout reports from your dashboard.
-* **Payments Screen** - Additional payments summary screen for better visibility of your payments.
-* **Managed fraud protection** - proactive management by our team to review, update and manage existing and potential fraud threats.
-* **Industry Specific -** Custom Fraud protection rules built for the hospitality industry.
-* **Get paid features for free -** Premium Stripe Radar features enabled on your account without the additional costs.
-* **Bot management -** Additional features to proactively reduce the growing threat of malicious bots.
+* **Ver a detalle** - detalles completos de sus pagos directamente dentro de su panel de pedidos.
+* **Reembolsos parciales** - Además de los reembolsos completos, puedes solicitar reembolsos parciales directamente desde un pedido.
+* **Reporte de pagos** - Descargue informes de pagos detallados desde su panel de control.
+* **Pantalla de pagos** - Pantalla de resumen de pagos adicional para una mejor visibilidad de sus pagos.
+* **Protección contra fraude gestionada** - Gestión proactiva por parte de nuestro equipo para revisar, actualizar y gestionar amenazas de fraude existentes y potenciales.
+* **Industria específica -** Reglas de protección contra fraude personalizadas diseñadas para la industria de la hospitalidad.
+* **Obtenga funciones pagadas gratis -** Funciones Premium Stripe Radar habilitadas en su cuenta sin costos adicionales.
+* **Gestión de Bots -** Funciones adicionales para reducir de forma proactiva la creciente amenaza de bots maliciosos.
 
 {% content-ref url="setup-integrated-stripe-payments.md" %}
 [setup-integrated-stripe-payments.md](setup-integrated-stripe-payments.md)

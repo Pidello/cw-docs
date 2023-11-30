@@ -1,45 +1,45 @@
 ---
 description: >-
-  Learn how to accept online payments using your own PayPal account with our
-  simple setup process
+  Aprenda cómo aceptar pagos en línea usando su propia cuenta PayPal con nuestro
+  sencillo proceso de configuración
 ---
 
-# Setup PayPal Payments
+# Configurar pagos PayPal
 
-PayPal is one of the most widely used online payment methods. CloudWaitress makes use of PayPal's REST express checkout payment integration. This allows us to process payments on your behalf with the funds going straight to your account. Please be aware that PayPal is only available in certain countries and currencies. You can see them [here](https://developer.paypal.com/docs/integration/direct/rest-api-payment-country-currency-support/).
+PayPal es uno de los métodos de pago online más utilizados. Pidello utiliza la integración de pago de pago rápido REST de PayPal. Esto nos permite procesar pagos en su nombre y los fondos van directamente a su cuenta. Tenga en cuenta que PayPal sólo está disponible en determinados países y monedas. Puedes verlos [aquí.](https://developer.paypal.com/docs/integration/direct/rest-api-payment-country-currency-support/)
 
 {% hint style="danger" %}
-We highly recommend using Stripe instead of PayPal for online payments. PayPal occasionally has various service issues in our experience. See how Stripe payments guide instead below.
+Recomendamos encarecidamente utilizar Stripe en lugar de PayPal para pagos en línea. Según nuestra experiencia, ocasionalmente PayPal tiene varios problemas de servicio. Vea cómo se guían los pagos de Stripe a continuación.
 {% endhint %}
 
 {% content-ref url="setup-stripe-payments.md" %}
 [setup-stripe-payments.md](setup-stripe-payments.md)
 {% endcontent-ref %}
 
-## How PayPal Payments Work
+## Cómo funcionan los pagos de PayPal
 
-Once PayPal is enabled, the option will be available to customers during the checkout phase of their order. Upon selection, they can either log in to their PayPal account, create an account or use their credit card and check out as a guest in order to complete payment.
+Una vez que PayPal esté habilitado, la opción estará disponible para los clientes durante la fase de pago de su pedido. Al realizar la selección, pueden iniciar sesión en su cuenta PayPal, crear una cuenta o usar su tarjeta de crédito y realizar el pago como invitado para completar el pago.
 
-## Requirements
+## Requerimientos
 
-In order to use PayPal with CloudWaitress, you will need a **fully valid business account**. If you already have a PayPal business account, you can skip this step.
+Para utilizar PayPal con CloudWaitress, necesitará una **cuenta comercial** totalmente válida. Si ya tiene una cuenta comercial de PayPal, puede omitir este paso.
 
-If you do not already have one, sign up at [https://www.paypal.com/webapps/mpp/account-selection](https://www.paypal.com/webapps/mpp/account-selection). You can also upgrade your personal account to a business one from within your account settings.
+Si aún no tienes uno, regístrate en [https://www.paypal.com/webapps/mpp/account-selection](https://www.paypal.com/webapps/mpp/account-selection). También puede actualizar su cuenta personal a una comercial desde la configuración de su cuenta.
 
-## Connecting Your PayPal Account
+## Conectando tu cuenta de PayPal
 
-#### Create a REST API Application
+#### Crear una aplicación API REST
 
-1. Visit [https://developer.paypal.com/developer/applications/](https://developer.paypal.com/developer/applications/)
-2. Log into your PayPal account using the login in button
-3. Once logged in, scroll down until you see the title "REST API apps"
-4. Press the "Create App" button
-5. Enter your business name for the app name, ignore the sandbox developer account field
-6. Press the "Create App" button to complete this step
+1. Visita [https://developer.paypal.com/developer/applications/](https://developer.paypal.com/developer/applications/)
+2. Inicie sesión en su cuenta PayPal utilizando el botón de inicio de sesión
+3. Una vez que haya iniciado sesión, desplácese hacia abajo hasta que vea el título "Aplicaciones API REST".
+4. Presione el botón "Crear aplicación"
+5. Ingrese el nombre de su empresa para el nombre de la aplicación, ignore el campo de cuenta de desarrollador de sandbox.
+6. Presione el botón "Crear aplicación" para completar este paso.
 
 ![PayPal REST apps](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_141scma.png)
 
-#### Copy Live Application Credentials
+#### Copiar credenciales de aplicaciones Live
 
 1. After creating your application, you will be on the page where you can copy your credentials
 2. Change from the "Sandbox" to "Live" view using the buttons on the top right
@@ -49,12 +49,12 @@ If you do not already have one, sign up at [https://www.paypal.com/webapps/mpp/a
 6. Enable PayPal payments and paste in your "Client ID" and "Secret" key from the PayPal dashboard
 7. Choose your payment currency and save the form
 
-![PayPal application credentials](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1g9uc8i.png)
+![Credenciales Live API de PayPal ](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1g9uc8i.png)
 
-## PayPal's Fees
+## Comisiones de PayPal
 
-Please be aware that using PayPal, like other online credit card processors, you will be charged a fee on every transaction. This has to be managed by yourself through your own PayPal account as we are not responsible for this. You can use the PayPal website to see the fees for your respective country and currency.
+Tenga en cuenta que al utilizar PayPal, al igual que otros procesadores de tarjetas de crédito en línea, se le cobrará una tarifa por cada transacción. Esto debe ser administrado por usted mismo a través de su propia cuenta PayPal, ya que no somos responsables de esto. Puede utilizar el sitio web de PayPal para ver las tarifas de su país y moneda respectivos.
 
-## Refunds
+## Reembolsos
 
-Currently, refunds must be manually processed from within your PayPal account.
+Actualmente, los reembolsos deben procesarse manualmente desde su cuenta PayPal.
