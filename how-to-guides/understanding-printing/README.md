@@ -1,10 +1,10 @@
 ---
 description: >-
-  Use our guides below for assistance on connecting up your CloudWaitress online
-  ordering store to your printer.
+  Utilice nuestras guías a continuación para obtener ayuda sobre cómo conectar
+  su tienda de pedidos en línea Pidello a su impresora.
 ---
 
-# Understanding Printing
+# Impresión de órdenes
 
 [setup-printing-for-android.md](setup-printing-for-android.md "mention")
 
@@ -20,8 +20,6 @@ description: >-
 
 [setup-split-printing.md](setup-split-printing.md "mention")
 
-To review all our printing features, visit our [printing features page](https://www.cloudwaitress.com/features/windows-or-linux-based-printing).
+Para revisar todas nuestras funciones de impresión, visite nuestra [página de funciones de impresión.](https://www.cloudwaitress.com/features/windows-or-linux-based-printing/)
 
-
-
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+[Volver a Pidello.com](http://pidello.paragonmedia.mx/)
