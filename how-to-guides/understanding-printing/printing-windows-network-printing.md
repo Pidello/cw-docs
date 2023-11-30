@@ -56,21 +56,21 @@ description: Cómo guía para imprimir con una impresora de red
 ![](<../../.gitbook/assets/untitled-8 (3).png>)
 
 {% hint style="danger" %}
-**NOTE:**
+**NOTA:**
 
-**Printer name** - This is the name that the printer will show inside of CloudWaitress.
+**Nombre de la impresora** - Este es el nombre que mostrará la impresora dentro de Pidello.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
+**Clave API** - Esto debe copiarse desde la configuración de la impresora dentro de Pidello.
 
-**Number of copies** - This will determine how many copies of the are printed.
+**Número de copias** - Esto determinará cuántas copias se imprimirán.
 
-**Printing type** - This needs to be set to Windows Shared Printer (ESCPOS) for this to work.
+**Tipo de impresión** - Es necesario configurarlo en Impresora compartida de Windows (ESCPOS) para que funcione.
 
-**Windows Share Printer Name** - This must match EXACTLY the shared printer name that was added before. You should avoid spaces and special characters.
+**Nombre de la impresora compartida de Windows** - Esto debe coincidir EXACTAMENTE con el nombre de la impresora compartida que se agregó antes. Debes evitar espacios y caracteres especiales.
 {% endhint %}
 
-13\. Test print
+13\. Impresión de prueba.
 
-14\. Create printer
+14\. Crear impresora
 
-15\. Go to your store and place a test order.
+15\. Ve a tu tienda y haz un pedido de prueba.
