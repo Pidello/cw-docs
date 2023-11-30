@@ -22,7 +22,7 @@
   * [Impresión de órdenes](how-to-guides/understanding-printing/README.md)
     * [Configurar la impresión para Android](how-to-guides/understanding-printing/setup-printing-for-android.md)
     * [Impresión - Impresión en red de Windows](how-to-guides/understanding-printing/printing-windows-network-printing.md)
-    * [Printing - Windows Shared Printing](how-to-guides/understanding-printing/printing-windows-shared-printing.md)
+    * [Impresión - Impresión compartida de Windows](how-to-guides/understanding-printing/printing-windows-shared-printing.md)
     * [Printing - API Key](how-to-guides/understanding-printing/printing-api-key.md)
     * [Add a USB printer to Windows](how-to-guides/understanding-printing/printing-add-a-printer-to-windows.md)
     * [Setup Split Printing](how-to-guides/understanding-printing/setup-split-printing.md)

@@ -1,57 +1,57 @@
 ---
-description: how to guide to connect a USB printer
+description: cómo guía para conectar una impresora USB
 ---
 
-# Printing - Windows Shared Printing
+# Impresión - Impresión compartida de Windows
 
-#### 1. Please go to Windows control Panel&#x20;
+#### 1. Vaya al Panel de control de Windows
 
 ![](<../../.gitbook/assets/untitled (3).png>)
 
-#### 2. Open 'Devices and Printers'
+#### 2. Abra 'Dispositivos e impresoras'
 
 ![](<../../.gitbook/assets/untitled-1 (3).png>)
 
-#### 3. Right click and select 'Printer Properties'
+#### 3. Haga clic derecho y seleccione 'Propiedades de la impresora'
 
 ![](../../.gitbook/assets/untitled-2.png)
 
-#### 4. If your printer is not showing use these instructions to set it up. [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+#### 4. Si su impresora no aparece, utilice estas instrucciones para configurarla. [Configuración de impresora.](https://www.notion.so/18689e4654fe4978b20aeb82b581d81e)
 
-#### 5. To test that the printer is working, please press Print Test Page
+#### 5. Para probar que la impresora está funcionando, presione Imprimir página de prueba.
 
 ![](<../../.gitbook/assets/untitled-3 (3).png>)
 
-#### 5. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+#### 5. Si la página de prueba no se imprime. Luego conecte e instale la impresora correctamente. Por favor mira : [Configuración de impresora](https://www.notion.so/18689e4654fe4978b20aeb82b581d81e).
 
-#### 6. If the test page does print, please share the printer with the following settings;
+#### 6. Si la página de prueba se imprime, comparta la impresora con las siguientes configuraciones:
 
 ![](<../../.gitbook/assets/untitled-4 (1).png>)
 
-#### 7. Click apply
+#### 7. Dar click en "Aplicar"
 
-#### 8. Open the [PushPrinter](https://pushprinter.com/#windows) application. Please check that the settings display as follows;
+#### 8. Abrir La aplicación [PushPrinter](https://pushprinter.com/#windows). Verifique que la configuración se muestre de la siguiente manera:
 
 ![](../../.gitbook/assets/untitled-5.png)
 
-#### 7. Now either 'Create Printer' or 'edit' your existing printer:
+#### 7. Ahora "Crear impresora" o "editar" su impresora existente:
 
 ![](<../../.gitbook/assets/untitled-6 (4).png>)
 
-#### 8. Add settings including: API key from the printer just created, ensure printer type is Windows Shared Printer (ESCPOS). Windows shared printer name must match the shared printer name that was added before.
+#### 8. Agregue configuraciones que incluyen: Clave API de la impresora recién creada, asegúrese de que el tipo de impresora sea Impresora compartida de Windows (ESCPOS). El nombre de la impresora compartida de Windows debe coincidir con el nombre de la impresora compartida que se agregó anteriormente.
 
 ![](<../../.gitbook/assets/untitled-7 (1).png>)
 
-**NOTE:**
+**NOTA:**
 
-**Printer name** - This is the name that the printer will show inside of CloudWaitress.
+**Nombre de la impresora** - Este es el nombre que mostrará la impresora dentro de Pidello.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
+**Clave API** - Esto debe copiarse desde la configuración de la impresora dentro de Pidello.
 
-**Number of copies** - This will determine how many copies of the are printed.
+**Número de copias** - Esto determinará cuántas copias se imprimirán.
 
-**Printing type** - This needs to be set to Windows Shared Printer (ESCPOS) for this to work.
+**Tipo de impresión** - Es necesario configurarlo en Impresora compartida de Windows (ESCPOS) para que funcione.
 
-**Windows Share Printer Name** - This must match EXACTLY the shared printer name that was added before. You should avoid spaces and special characters.
+**Nombre de la impresora compartida de Windows** - Esto debe coincidir EXACTAMENTE con el nombre de la impresora compartida que se agregó antes. Debes evitar espacios y caracteres especiales.
 
-#### 8. Then press 'Send Test Print' and then press 'Create Printer'.
+#### 8. Luego presione 'Enviar impresión de prueba' y luego presione 'Crear impresora'.
