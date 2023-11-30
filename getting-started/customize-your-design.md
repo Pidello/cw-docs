@@ -1,30 +1,30 @@
 ---
 description: >-
-  When you first create your restaurant, the default theme is relatively blank.
-  It's up to you to customise it to represent your brand. Design settings are
-  located under the settings page in the design
+  Cuando crea su restaurante por primera vez, el tema predeterminado está
+  relativamente en blanco. La configuración de diseño se encuentra debajo de la
+  página de configuración en diseño.
 ---
 
-# Customize Your Design
+# Personaliza tu diseño
 
 {% embed url="https://youtu.be/g3ibBakpqMU" %}
 Design video tutorial
 {% endembed %}
 
-## How To Customize Your Design
+## Cómo personalizar su diseño
 
-1. Visit the restaurant settings page and go to the design tab
-2. Press "Open Design Mode" to open up the site design editor
-3. Go through each of the setting sections and customize options as needed&#x20;
+1. Visita la página de configuración del restaurante y ve a la pestaña de diseño.
+2. Presione "Abrir modo de diseño" para abrir el editor de diseño del sitio.
+3. Revise cada una de las secciones de configuración y personalice las opciones según sea necesario
 
-## Quickstart Recommendation
+## Recomendación de inicio rápido
 
-To get a great looking site quickly, just use our base theme, add your logo and add a nice header background image. It also helps to have a nice header title and subtitle.
+Para obtener un sitio de excelente apariencia rápidamente, simplemente use nuestro tema base, agregue su logotipo y agregue una bonita imagen de fondo del encabezado. También ayuda tener un bonito título de encabezado y subtítulo.
 
-|| We recommend using a PC or tablet to design your site for the best experience
+|| Recomendamos utilizar una PC o tableta para diseñar su sitio y obtener la mejor experiencia.
 
-## Recommend Images Dimensions
+## Recomendar imágenes Dimensiones
 
-* Logo image - 300 pixels wide by 100 pixels high wide
-* Header image - 1920 pixels wide by 500 pixels high
-* Logo icon - 350 by 350 pixel square
+* Imagen del logotipo: 300 píxeles de ancho por 100 píxeles de alto.
+* Imagen de encabezado: 1920 píxeles de ancho por 500 píxeles de alto
+* Ícono del logotipo: 350 por 350 píxeles cuadrados
