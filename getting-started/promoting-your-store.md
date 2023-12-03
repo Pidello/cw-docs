@@ -1,66 +1,64 @@
 ---
 description: >-
-  Once you have set up your online store settings and menus, you are ready to
-  start taking orders. Getting online orders requires you to drive customers to
-  your website to place orders.
+  Una vez que haya configurado la configuración y los menús de su tienda en
+  línea, estará listo para comenzar a recibir pedidos. Para obtener pedidos en
+  línea, debe dirigir a los clientes a su sitio web
 ---
 
-# Promoting Your Store
+# Promocionando su tienda
 
 {% hint style="info" %}
-Promoting your store goes well beyond the scope of our software. This single page does not do justice to the vast number of promotion strategies available. The below suggestions are here to help you get started.
+Promocionar su tienda va mucho más allá del alcance de nuestro software. Esta única página no hace justicia a la gran cantidad de estrategias de promoción disponibles. Las siguientes sugerencias están aquí para ayudarle a comenzar.
 {% endhint %}
 
-## Let Your Customers Know
+## Informe a sus clientes
 
-Initially, your customers will not be aware of your new online ordering system. It's important that you let them know this exists. You can do this by:
+Inicialmente, sus clientes no conocerán su nuevo sistema de pedidos en línea. Es importante que les hagas saber que esto existe. Puedes hacer esto mediante:
 
-* Handing out cards or flyers when customers make in-store purchases
-* Putting up a board or sign on your store window
-* Inform customers who call in that they can now order online. 
-* Add a link from your website to your ordering page
-* Posting the ordering link on your social media channels
-* Add the ordering link to your in-store receipts
+* Entregar tarjetas o folletos cuando los clientes realizan compras en la tienda.&#x20;
+* Colocar un cartel o cartel en el escaparate de tu tienda Informe a los clientes que llamen que ahora pueden realizar pedidos en línea.&#x20;
+* Agregue un enlace desde su sitio web a su página de pedidos&#x20;
+* Publicar el enlace de pedido en sus canales de redes sociales&#x20;
+* Agregue el enlace de pedido a sus recibos en la tienda
 
-## Paid Advertising
+## Publicidad pagada (Pauta)
 
-You can consider paying for Facebook or Google ads. Both of these are avenues to generate new customers. We highly recommend utilizing Facebook advertising as it is dirt cheap and easy to target local consumers with.
+Puede considerar pagar por anuncios de Facebook o Google. Ambas son vías para generar nuevos clientes. Recomendamos encarecidamente utilizar publicidad en Facebook, ya que es muy económica y fácil de dirigir a los consumidores locales.
 
-## Create A Google Places Listing
+## Crear un listado de Google Places
 
-A Google places listing will allow local customers to find you far easier as its focused on your locality. This means you are more likely to rank high if the person searching for you is near your store. Follow this link [https://www.google.com.au/business/](https://www.google.com.au/business/) to create or manage your listing.
+Una lista de lugares de Google permitirá a los clientes locales encontrarlo mucho más fácilmente ya que se centra en su localidad. Esto significa que es más probable que obtengas una clasificación alta si la persona que te busca está cerca de tu tienda. Siga este enlace [https://www.google.com/business/](https://www.google.com/business/) para crear o administrar su listado.
 
-Do not forget to add a "Placing an order" link to your places listing. See the following article on how this can be done [https://support.google.com/business/answer/6218037?hl=en](https://support.google.com/business/answer/6218037?hl=en)
+No olvide agregar un enlace "Realizar un pedido" a su lista de lugares. Consulte el siguiente artículo sobre cómo se puede hacer esto. [https://support.google.com/business/answer/6218037?hl=es](https://support.google.com/business/answer/6218037?hl=es)
 
-## Search Engine Optimization
+## Optimización de motores de búsqueda (SEO)
 
-SEO which stands for search engine optimization is the process of making your site discoverable and rank high on search engines such as Google.
+SEO, que significa optimización de motores de búsqueda, es el proceso de hacer que su sitio sea reconocible y tenga una clasificación alta en motores de búsqueda como Google.
 
-### Setup A Custom Domain Name
+### Configurar un nombre de dominio personalizado
 
-By default, your online store can be found on a sub-domain of "cloudwaitress.com. It is essential that you set this subdomain to be something that customers can easily remember and recognize.
+De forma predeterminada, su tienda en línea se puede encontrar en un subdominio de "pidello.com" (tu-restaurante.pidello.com). Es esencial que configure este subdominio para que sea algo que los clientes puedan recordar y reconocer fácilmente.
 
-While the subdomain is just there to get you up and running quickly, it's best to purchase your own domain name for your business. You can then configure your store to your own custom domain name.
+Si bien el subdominio está ahí para que usted pueda comenzar a utilizarlo rápidamente, es mejor comprar su propio nombre de **dominio para su negocio**. Luego puede configurar su tienda con su propio nombre de dominio personalizado.
 
-Once you have purchased your own domain name, visit "Settings &gt; Website &gt; Domains &gt; Custom Domain" in your restaurant dashboard to configure it.
+Una vez que haya comprado su propio nombre de dominio, visite "Configuración > Sitio web > Dominios > Dominio personalizado" en el panel de su restaurante para configurarlo.
 
-### Basic SEO Settings
+### Configuración básica SEO
 
-Under the "Settings &gt; Website &gt; SEO" section, you can edit your website title and meta description. This is the info Google will show on its search listings. It is recommended that you set these to something extremely local.
+En la sección "Configuración > Sitio web > SEO", puede editar el título y la meta descripción de su sitio web. Esta es la información que Google mostrará en sus listados de búsqueda. Se recomienda configurarlos en algo extremadamente local.&#x20;
 
-Say you own an Indian restaurant called the Red Turban in a suburb called Townsville in New York. Your title should be "Red Turban - Authentic Indian Townsville New York.
+Supongamos que es dueño de un restaurante indio llamado Red Turban en un suburbio llamado Townsville en Nueva York. Su título debe ser "Turbante rojo - Auténtico Townsville indio de Nueva York".&#x20;
 
-Your meta description should just expand on that more but make sure to hit on your keywords which are your locality and cuisine. The reason for this is because locality will reduce the massive competition and noise of other websites on search engines and it is most likely what customers will be searching for in your local area.
+Su meta descripción debería ampliar eso más, pero asegúrese de incluir las palabras clave que son su localidad y cocina. La razón de esto es que la localidad reducirá la competencia masiva y el ruido de otros sitios web en los motores de búsqueda y es muy probable que sea lo que los clientes buscarán en su área local.
 
-### Submit Your Website To Google, Bing etc
+### Envíe su sitio web a Google, Bing, etc.
 
-Once you have a custom domain, visit [https://search.google.com/search-console](https://search.google.com/search-console). Register an account there, add your website, then use the "URL Inspection Tool" to check your website. There you can submit it to Google for indexing.
+Una vez que tenga un dominio personalizado, visite [https://search.google.com/search-console](https://search.google.com/search-console). Registre una cuenta allí, agregue su sitio web y luego use la "Herramienta de inspección de URL" para verificar su sitio web. Allí podrá enviarlo a Google para su indexación.
 
-## Additional Reading
+## Lectura adicional
 
-We have created a few helpful guides for restaurant marketing on our blog. We suggest reading them to get more ideas and strategies.
+Hemos creado algunas guías útiles para el marketing de restaurantes en nuestro blog. Sugerimos leerlos para obtener más ideas y estrategias.
 
 * [Online Marketing - Google My Business](https://www.cloudwaitress.com/blog/online-restaurant-marketing-google-my-business)
 * [Online Marketing - Facebook](https://www.cloudwaitress.com/blog/online-restaurant-marketing-facebook-advertising)
 * [Creative Marketing Ideas For Restaurants](https://www.cloudwaitress.com/blog/creative-marketing-ideas-restaurants)
-

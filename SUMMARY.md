@@ -8,7 +8,7 @@
   * [Configura tus Servicios](getting-started/configure-your-services.md)
   * [Personaliza tu diseño](getting-started/customize-your-design.md)
   * [Gestión de pedidos y reservas](getting-started/managing-orders-and-bookings.md)
-  * [Promoting Your Store](getting-started/promoting-your-store.md)
+  * [Promocionando su tienda](getting-started/promoting-your-store.md)
 * [Guías](how-to-guides/README.md)
   * [Aceptar pagos en línea](how-to-guides/accepting-payments/README.md)
     * [🔐 Pagos integrados Stripe+](how-to-guides/stripe+-integrated-payments.md)

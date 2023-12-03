@@ -51,67 +51,67 @@ Aquí podrás realizar las siguientes funciones.
 * Modificar el tiempo de preparación estimado: actualice en el recibo del cliente cuánto tiempo falta para que el pedido esté listo&#x20;
 * Otras acciones: imprimir pedidos, reservar para la entrega, reembolsar pagos, eliminar el pedido
 
-## How To Manage Orders
+## Cómo gestionar pedidos
 
-To actively manage orders, use the board view and follow the process below.
+Para gestionar pedidos de forma activa, utilice la vista del tablero y siga el proceso a continuación.
 
-1. Confirm or cancel any new orders received in the **Un-Confirmed** column.
-2. Orders in the **Confirmed (Due Soon)** column are due in the next 2 orders. Simply prepare the orders from the top to bottom to meet the time they are due
-3. Orders in the **Confirmed (Up-Coming)** section are due any time after 2 hours. You can keep an eye on what's upcoming with this.
-4. When the order has been prepared, move it to the **Ready** column for customer or driver collection.
-5. If it is a delivery, move it to the **On Route** column once the driver has taken it.
-6. Finally, mark orders as complete when the customer collects it or the food has been delivered.
+1. Confirme o cancele cualquier pedido nuevo recibido en la columna **No confirmado**.
+2. Los pedidos en la columna **Confirmado (Vence pronto)** vencen en los próximos 2 pedidos. Simplemente prepare los pedidos de arriba a abajo para cumplir con el plazo de entrega.
+3. Los pedidos en la sección **Confirmado (Próximo)** vencen en cualquier momento después de 2 horas. Puedes estar atento a lo que viene con esto.
+4. Cuando el pedido haya sido preparado, muévalo a la columna **Listo** para ser recogido por el cliente o el conductor.
+5. Si es una entrega, muévala a la columna **En Ruta** una vez que el conductor la haya recogido.
+6. Por último, marca los pedidos como completos cuando el cliente los recoja o la comida haya sido entregada.
 
-|| If you are unable to prepare an order by the due time, you increase the due time manually. Click an order to view the details. Using the "Modify Est. Ready Time" select bar, add the extra time required to prepare the order. This way your customers are aware of any delays.
+|| Si no puede preparar un pedido a tiempo, aumenta el tiempo de entrega manualmente. Haga clic en un pedido para ver los detalles. Usando la barra de selección "Modificar tiempo estimado de preparación", agregue el tiempo adicional requerido para preparar el pedido. De esta manera sus clientes estarán al tanto de cualquier retraso.
 
-### Order Statuses
+### Estatus de órdenes
 
-There are 6 different order statuses as indicated by the columns on the order management board.
+Hay 6 estados de pedido diferentes, como lo indican las columnas en el panel de gestión de pedidos.
 
-* Un-confirmed - new orders that are not accepted yet
-* Confirmed - orders that you have accepted and will fulfil
-* Ready - prepared orders ready for customer or driver collection
-* On Route - orders currently with the delivery driver (delivery only)
-* Complete - orders that have been completed fulfilled
-* Cancelled - orders that will not be fulfilled
+* Sin confirmar: nuevos pedidos que aún no se aceptan
+* Confirmado: pedidos que ha aceptado y que cumplirá
+* Listo: pedidos preparados listos para ser recogidos por el cliente o el conductor
+* En ruta: pedidos actualmente con el conductor de entrega (solo entrega)
+* Completo: pedidos que se han completado y cumplidos.&#x20;
+* Cancelado: pedidos que no se cumplirán
 
-Updating the order status will update your customers in real-time about the status of their order.
+Actualizar el estado del pedido actualizará a sus clientes en tiempo real sobre el estado de su pedido.
 
-### What Happens When An Order Is Placed
+### ¿Qué sucede cuando se realiza un pedido?
 
-Every time a new order is received, several things will happen.
+Cada vez que se recibe un nuevo pedido sucederán varias cosas.
 
-* A sound notification will play if enabled
-* If device notifications are enabled, you will receive one
-* If automated printing is configured, the order will be printed at the respective printer
-* You will receive an e-mail notification if configured
-* The new order will automatically be loaded into the orders interface
+* Se reproducirá una notificación sonora si está habilitado
+* Si las notificaciones del dispositivo están habilitadas, recibirá una
+* Si se configura la impresión automatizada, el pedido se imprimirá en la impresora respectiva.&#x20;
+* Recibirá una notificación por correo electrónico si está configurado
+* El nuevo pedido se cargará automáticamente en la interfaz de pedidos.
 
-## Notifications
+## Notificaciones
 
-### Device Notifications
+### Notificaciones del dispositivo
 
-We highly recommend that you have device notifications enabled if your device supports it. When you first load the admin dashboard, your web browser will ask you if you would like to allow notifications. Please make sure that you allow this.
+Le recomendamos encarecidamente que tenga habilitadas las notificaciones del dispositivo si su dispositivo lo admite. Cuando cargue por primera vez el panel de administración, su navegador web le preguntará si desea permitir notificaciones. Por favor asegúrese de permitir esto.&#x20;
 
-If you did not, you will need to manually enable them from your web browser settings. This is different for every browser. For chrome on a PC, you can do this by clicking the secure lock icon beside the website URL in the address bar. This will drop down the permissions window where you can enable notifications for the current page you are on.
+Si no lo hizo, deberá habilitarlos manualmente desde la configuración de su navegador web. Esto es diferente para cada navegador. Para Chrome en una PC, puede hacerlo haciendo clic en el ícono de candado seguro al lado de la URL del sitio web en la barra de direcciones. Esto desplegará la ventana de permisos donde puede habilitar notificaciones para la página actual en la que se encuentra.
 
-### E-Mail Notifications
+### Notificaciones de Correo Electrónico
 
-You can configure up to 3 email addresses to receive notifications on. Simply visit "Settings > E-mail Notifications" and configure the settings there. E-mail notifications will also include a PDF copy of the order receipt.
+Puede configurar hasta 3 direcciones de correo electrónico para recibir notificaciones. Simplemente visite "Configuración > Notificaciones por correo electrónico" y configure los ajustes allí. Las notificaciones por correo electrónico también incluirán una copia en PDF del recibo del pedido.
 
-### Audio Notifications
+### Notificaciones de audio
 
-Audio notifications can be configured at "Settings > Audio Notifications". One useful aspect to this is you can configure a sound to play until someone has tapped / clicked the screen. This is helpful to get someones attention that a new order has come through.
+Las notificaciones de audio se pueden configurar en "Configuración > Notificaciones de audio". Un aspecto útil de esto es que puede configurar un sonido para que se reproduzca hasta que alguien toque o haga clic en la pantalla. Esto es útil para llamar la atención de alguien sobre la llegada de un nuevo pedido.
 
-### Automated Printing
+### Impresión automatizada
 
-If you have automated printing set up, this serves as a valuable notification for new orders. Learn how to set it up through our printing setup guide.
+Si tiene configurada la impresión automática, esto sirve como una notificación valiosa para nuevos pedidos. Aprenda cómo configurarlo a través de nuestra guía de configuración de impresión.
 
-## Train Your Staff
+## Capacite a su personal
 
-Implementing an online ordering system if you have never done so before requires some changes. Most importantly all staff must be aware that new orders can come through and must be attended to.
+Implementar un sistema de pedidos en línea si nunca lo ha hecho antes requiere algunos cambios. Lo más importante es que todo el personal debe ser consciente de que pueden llegar nuevos pedidos y que deben ser atendidos.
 
-## Managing Bookings
+## Gestionar reservas
 
 Bookings are managed very similarly through the bookings page. When a new booking is placed, it will start as unconfirmed. Verify that you can accept it and then manually update the booking status to confirmed or cancelled.
 
