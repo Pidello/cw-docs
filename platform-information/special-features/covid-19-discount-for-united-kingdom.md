@@ -1,72 +1,70 @@
 ---
 description: >-
-  For August 2020, the UK government have released a discount scheme for
-  restaurants called 'Eat Out to Help Out".  This shows how to set-up for your
-  restaurant.
+  Para agosto de 2020, el gobierno del Reino Unido lanzó un plan de descuentos
+  para restaurantes llamado "Eat Out to Help Out". Este programa muestra cómo
+  configurar su restaurante.
 ---
 
-# COVID-19 Discount for United Kingdom
+# Descuento por COVID-19
 
-## Example
+## Ejemplo
 
-Below shows an example of the COVID-19 discount applied to the checkout.
+A continuación se muestra un ejemplo del descuento de COVID-19 aplicado al finalizar la compra.
 
 ![Example of COVID-19 Discount working](../../.gitbook/assets/covid19-discount-image.png)
 
+## Proceso de configuración
 
-
-## Set-up Process
-
-CloudWaitress supports the COVID-19 Discount for Dine-In orders with the following settings;
+CloudWaitress admite el descuento de COVID-19 para pedidos para cenar en el restaurante con las siguientes configuraciones;
 
 ![Go to Settings > System > Promo Codes > Create Promo Code](../../.gitbook/assets/covid0.png)
 
-### **Labels**
+### **Etiquetas**
 
-We suggest using the following naming conventions;
+Sugerimos utilizar las siguientes convenciones de nomenclatura;
 
-**Name** = 'COVID-19 Discount'
+**Nombre** = 'Descuento COVID-19'
 
 **Promo Code** = 'COVID19'
 
 ![Naming the promo correctly is important for the receipts.](../../.gitbook/assets/covid1.png)
 
-### **Restrictions**
+### **Restricciones**
 
-Please ensure that Maximum Amount = "10" and Services = "Dine In"
+Asegúrese de que Cantidad máxima = "10" y Servicios = "ordena en restaurante"
 
 ![](../../.gitbook/assets/covid2.png)
 
-### Rules
+### Reglas
 
-Leave 'Order Times', 'Once Per Customer' and 'Logged In Customers Only' set as blank/off.
+Deje 'Tiempos de pedido', 'Una vez por cliente' y 'Sólo clientes loggeados' configurados en blanco o desactivados.
 
 ![](../../.gitbook/assets/covid3.png)
 
-### Critical Settings
+### Configuraciones Críticas
 
-You must set 'Automatically Apply Promotion' to on.
+Debes activar "Aplicar promoción automáticamente". El límite de platos debe tener seleccionados todos los elementos aplicables.&#x20;
 
-Limit to dishes should have every applicable item selected. For example, all food items would be ticked and alcohol items would not be ticked.
+Por ejemplo, todos los alimentos estarían marcados y los artículos con alcohol no estarían marcados.
 
 ![](../../.gitbook/assets/covid4.png)
 
-### Non-important settings
+### Configuraciones no importantes
 
-The following settings should be left blank.
+Las siguientes configuraciones deben dejarse en blanco.
 
 ![](../../.gitbook/assets/covid5.png)
 
-### Go Live
+### Activar promoción
 
-You can now save the promotion to make it live.
+Ahora puedes guardar la promoción para activarla.
 
-### How to disable promotion
+### Cómo deshabilitar la promoción
 
-Turning off the COVID-19 promotion is very simple.  Simply open the promotion, check the disable promotion setting.  Alternatively you can delete the promotion from the promotions menu (Settings > System > Promo Codes > Delete) by hitting the trash can button on the right-hand side of the promotion in question.
+Desactivar la promoción COVID-19 es muy sencillo. Simplemente abra la promoción, verifique la configuración para desactivar la promoción. Alternativamente, puedes eliminar la promoción desde el menú de promociones (Configuración > Sistema > Códigos promocionales > Eliminar) presionando el botón de la papelera en el lado derecho de la promoción en cuestión.
 
 {% hint style="warning" %}
-**Limitations**&#x20;
+**Limitantes**
 
-The COVID-19 discount will only be applied once per order.  In order to obtain a discount for multiple people, each person should order from their own device.
+El descuento COVID-19 sólo se aplicará una vez por pedido. Para obtener un descuento para varias personas, cada persona deberá realizar el pedido desde su propio dispositivo.
 {% endhint %}

@@ -1,12 +1,9 @@
 ---
 description: >-
-  A quick video guide showing you how to configure split printing in
-  CloudWaitress.
+  Una guía rápida en video que le muestra cómo configurar la impresión dividida
+  en Pidello.
 ---
 
-# Setup Split Printing
+# Configurar impresión dividida
 
 {% embed url="https://youtu.be/i5NwBqIQ4qI" %}
-
-
-

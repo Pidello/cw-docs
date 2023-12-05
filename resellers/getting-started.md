@@ -1,51 +1,48 @@
 ---
 description: >-
-  Learn how to get started and work with our reseller platform. Learn how to set
-  up new accounts and manage your restaurants
+  Aprenda cómo comenzar y trabajar con nuestra plataforma de revendedores.
+  Aprenda a configurar nuevas cuentas y administrar sus restaurantes
 ---
 
-# Getting Started
+# Empezar
 
-## Starting The Setup Process
+## Empezando el proceso de configuración
 
-1. Complete this form [https://airtable.com/shr4UleQsOP7OApli](https://airtable.com/shr4UleQsOP7OApli)
-2. We will setup your billing account and contact you for the deposit
-3. Once the deposit is paid, we will set up your account
-4. Finally, we will provide you instructions to connect your domain to your reseller platform
+1. Completar esta forma [https://airtable.com/shr4UleQsOP7OApli](https://airtable.com/shr4UleQsOP7OApli)
+2. Configuraremos su cuenta de facturación y nos comunicaremos con usted para el depósito.
+3. Una vez pagado el depósito, configuraremos su cuenta.
+4. Finalmente, le proporcionaremos instrucciones para conectar su dominio a su plataforma de revendedor.
 
-## Understanding The Reseller Platform
+## Comprensión de la plataforma de revendedor
 
-Your reseller platform consists of 3 parts
+Su plataforma de revendedor consta de 3 partes
 
-* Admin dashboard - located at admin.your-domain.com
-* Online stores - located at \_\_name\_\_.your-domain.com
-* Landing pages - located at \_\_name\_\_.your-domain.com
+* Panel de administración: ubicado en **admin**.tu-dominio.com
+* Tiendas en línea: ubicadas en **nombre**.tu-dominio.com
+* Páginas de destino: ubicadas en **nombre**.su-dominio.com
 
-## Accounts, O**rganizations** & Restaurants
+## Cuentas, organizaciones y restaurantes
 
-To work with the reseller platform, it's important to understand the structure of accounts. Every account created under your reseller platform is an **organization**. When you create an account, the email address you register it with is the **admin user** of that organization.
+Para trabajar con la plataforma de revendedores, es importante comprender la estructura de las cuentas. Cada cuenta creada en su plataforma de revendedor es una **organización**. Cuando crea una cuenta, la dirección de correo electrónico con la que la registra es el **usuario administrador** de esa organización.
 
-An organization can have one or more **restaurants** under it. Each of these restaurants has their own **online store** website. Every organization can have a single **landing page** website that links to all the restaurants within that organization.
+Una organización puede tener uno o más **restaurantes** bajo ella. Cada uno de estos restaurantes tiene su propio sitio web de tienda online. Cada organización puede tener un sitio web de **página de destino** única que enlace a todos los restaurantes dentro de esa **organización**.
 
-Organizations can also have **staff accounts** that have access restricted to particular restaurants and particular functions.
+Las organizaciones también pueden tener **cuentas de personal** con acceso restringido a restaurantes y funciones particulares.
 
-### The Ideal Way To Setup New Clients
+### La forma ideal de configurar nuevos clientes
 
-We recommend that for every new business that you work with, you create them their own account. All their store branches should be added as restaurants under this single account. Managers of each branch can be given their own staff account with access to just that store branch.
+Te recomendamos que para cada nueva empresa con la que trabajes, les crees su propia cuenta. Todas las sucursales de sus tiendas deben agregarse como restaurantes en esta cuenta única. A los gerentes de cada sucursal se les puede otorgar su propia cuenta de personal con acceso solo a esa sucursal de la tienda.
 
-## Creating New Accounts
+## Creando cuentas nuevas
 
-You can create new accounts through the signup form on your admin dashboard. Any accounts created from here will be part of your main reseller account. Their online stores and landing pages will have your branding on them, not ours.
+Puede crear nuevas cuentas a través del formulario de registro en su panel de administración. Cualquier cuenta creada desde aquí formará parte de su cuenta de revendedor principal. Sus tiendas en línea y páginas de destino tendrán su marca, no la nuestra.
 
-When we set up your reseller platform, we would have either enabled or disabled **e-mail verification** depending on how you plan to set up your customers.
+Cuando configuramos su plataforma de revendedor, habremos habilitado o deshabilitado la **verificación por correo electrónico** dependiendo de cómo planee configurar a sus clientes.
 
-**If e-mail verification is enabled**, the user email that you signed up with will receive a 5-6 digit code that must be entered in the account creation process.
+Si la **verificación de correo electrónico está habilitada**, el correo electrónico del usuario con el que se registró recibirá un código de 5 a 6 dígitos que deberá ingresar en el proceso de creación de la cuenta.
 
-**If e-mail verification is disabled**, this 5-6 digit code will be sent to your support e-mail address instead of the e-mail address you created your account with.
+Si la **verificación por correo electrónico está desactivada**, este código de 5 a 6 dígitos se enviará a su dirección de correo electrónico de soporte en lugar de la dirección de correo electrónico con la que creó su cuenta.
 
 {% hint style="info" %}
-You can use your reseller password in the e-mail confirmation code field to bypass the verification process
+Puede utilizar su contraseña de revendedor en el campo del código de confirmación por correo electrónico para omitir el proceso de verificación.
 {% endhint %}
-
-
-

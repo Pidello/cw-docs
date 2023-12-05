@@ -1,12 +1,11 @@
 ---
 description: >-
-  A quick video on how to add Public Holiday Surcharges to your online ordering
-  system.
+  Un vídeo rápido sobre cómo agregar recargos por días festivos a su sistema de
+  pedidos en línea.
 ---
 
-# Public Holiday Surcharge
+# Recargo por días festivos
 
 {% embed url="https://youtu.be/HFXDA18pflc" %}
-Adding conditional fees to your online ordering system
+Agregar tarifas condicionales a su sistema de pedidos en línea
 {% endembed %}
-

@@ -1,17 +1,18 @@
 ---
 description: >-
-  This feature forces users to select a service before seeing a menu.  Users
-  cannot proceed before making a service selection.
+  Esta característica obliga a los usuarios a seleccionar un servicio antes de
+  ver un menú. Los usuarios no pueden continuar antes de realizar una selección
+  de servicio.
 ---
 
-# Make Service Pop-Up Required
+# Hacer que la ventana emergente de servicio sea obligatoria
 
-![Example of the feature when activated](<../../.gitbook/assets/image (1) (1) (1).png>)
+![Ejemplo de la función cuando se activa](<../../.gitbook/assets/image (1) (1) (1).png>)
 
-To enable this feature, please activate the '_Service Pop-up required_'' button under;
+Para habilitar esta función, active el botón "Se requiere ventana emergente de servicio" debajo:
 
 {% hint style="info" %}
-Settings > System > Misc > Service Pop-up required
+Configuración > Sistema > Misc > Se requiere ventana emergente de servicio
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (5) (1).png>)

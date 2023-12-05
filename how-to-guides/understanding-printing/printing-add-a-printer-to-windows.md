@@ -1,43 +1,43 @@
 ---
 description: >-
-  Use this guide for adding a USB printer driver to Windows, if not already
-  connected.
+  Utilice esta guía para agregar un controlador de impresora USB a Windows, si
+  aún no está conectado.
 ---
 
-# Add a USB printer to Windows
+# Agregar una impresora USB a Windows
 
-If printer drivers are not set up follow these instructions:
+Si los controladores de la impresora no están configurados, siga estas instrucciones:
 
-1\. Go to 'control panel', 'devices and printers', 'add a printer' and select add a local printer:
+1\. Vaya a 'panel de control', 'dispositivos e impresoras', 'agregar una impresora' y seleccione agregar una impresora local:
 
 ![](../../.gitbook/assets/a1.png)
 
-2\. Choose a printer port, click use an existing port, USB001
+2\. Elija un puerto de impresora, haga clic en usar un puerto existente, USB001
 
 ![](../../.gitbook/assets/a2.png)
 
-3\. Choose a printer from the list and select Generic / Text only and click next.
+3\. Elija una impresora de la lista, seleccione Genérico/Solo texto y haga clic en Siguiente.
 
 ![](../../.gitbook/assets/a3.png)
 
-4\. Type a printer name and click next:
+4\. Escriba un nombre de impresora y haga clic en Siguiente:
 
 {% hint style="info" %}
-Use simple naming conventions for easy servicing in the future. i.e. Kitchen, Pizza, Drinks
+Utilice convenciones de nomenclatura sencillas para facilitar el mantenimiento en el futuro. es decir, cocina, pizza, bebidas
 {% endhint %}
 
 ![](../../.gitbook/assets/a4.png)
 
-5\. Provide a name of the printer if you want to share it and click next
+5\. Proporcione un nombre de la impresora si desea compartirla y haga clic en Siguiente
 
 ![](../../.gitbook/assets/a5.png)
 
-6\. Print a test page to check your printer is working properly and click finish if the test print worked satisfactorily.
+6\. Imprima una página de prueba para comprobar que su impresora funciona correctamente y haga clic en finalizar si la impresión de prueba funcionó satisfactoriamente.
 
 ![](../../.gitbook/assets/a6.png)
 
-7\. Your printer is now setup.
+7\. Su impresora ahora está configurada.
 
 {% hint style="info" %}
-Still need help setting up for receipt printer? Start a chat with our support team at cloudwaitress.com or book a set-up appointment with us [here](https://calendly.com/cloudwaitress).
+¿Aún necesitas ayuda para configurar la impresora de recibos? Inicie un chat con nuestro equipo de soporte en cloudwaitress.com o reserve una cita con nosotros.
 {% endhint %}

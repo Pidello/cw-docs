@@ -1,16 +1,20 @@
 ---
 description: >-
-  This page highlights instructions around special features.  Most of these
-  features are specific to certain situations, countries or tax jurisdiction.
+  Esta página destaca instrucciones sobre características especiales. La mayoría
+  de estas características son específicas de determinadas situaciones, países o
+  jurisdicciones fiscales.
 ---
 
-# Special Features
+# Funciones Especiales y Nuevas
 
-{% page-ref page="public-holiday-surcharge.md" %}
+{% content-ref url="public-holiday-surcharge.md" %}
+[public-holiday-surcharge.md](public-holiday-surcharge.md)
+{% endcontent-ref %}
 
-{% page-ref page="make-service-pop-up-required.md" %}
+{% content-ref url="make-service-pop-up-required.md" %}
+[make-service-pop-up-required.md](make-service-pop-up-required.md)
+{% endcontent-ref %}
 
-{% page-ref page="covid-19-discount-for-united-kingdom.md" %}
-
-
-
+{% content-ref url="covid-19-discount-for-united-kingdom.md" %}
+[covid-19-discount-for-united-kingdom.md](covid-19-discount-for-united-kingdom.md)
+{% endcontent-ref %}

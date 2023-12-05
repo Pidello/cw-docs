@@ -28,18 +28,18 @@ description: Cómo ocultar la sección del encabezado de la tienda en tu tienda 
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-02-07 at 2.56.47 pm.png" alt=""><figcaption></figcaption></figure>
 
-### 6. Click on Save
+### 6. Click en Guardar
 
 ![Step 6 screenshot](https://images.tango.us/workflows/afe3c9b8-6e7e-49f4-95c6-a31ea1e9e85d/steps/21f750f5-7f5c-45fe-9ea8-07cccea07eaa/f01007ee-4783-42a4-9df3-c5b89aa4a316.png?crop=focalpoint\&fit=crop\&fp-x=0.5141\&fp-y=0.7992\&fp-z=1.7413\&w=1200)
 
-### 7. Click on Open Design Mode
+### 7. Haga click en Abrir modo de diseño
 
 ![Step 7 screenshot](https://images.tango.us/workflows/afe3c9b8-6e7e-49f4-95c6-a31ea1e9e85d/steps/841b4a18-6056-47c7-b367-30b872b9f529/8dbf0722-e836-49a0-9424-1318eeed5e12.png?crop=focalpoint\&fit=crop\&fp-x=0.6609\&fp-y=0.2076\&fp-z=3.1315\&w=1200)
 
-### 8. Click on Mobile
+### 8. Click en Mobile
 
 ![Step 8 screenshot](https://images.tango.us/workflows/afe3c9b8-6e7e-49f4-95c6-a31ea1e9e85d/steps/b65b1144-6136-4743-9a5d-127923a9e09c/78d400e2-8e11-4542-b68e-bab916aecab5.png?crop=focalpoint\&fit=crop\&fp-x=0.1289\&fp-y=0.0358\&fp-z=2.9232\&w=1200)
 
-### 9. Click on Full
+### 9. Click en vista Completa
 
 ![Step 9 screenshot](https://images.tango.us/workflows/afe3c9b8-6e7e-49f4-95c6-a31ea1e9e85d/steps/c30f02af-fe31-4b6c-bf65-1928bffe2ddd/55695add-3046-4f9d-b103-b0981982f95f.png?crop=focalpoint\&fit=crop\&fp-x=0.1704\&fp-y=0.0358\&fp-z=2.9232\&w=1200)

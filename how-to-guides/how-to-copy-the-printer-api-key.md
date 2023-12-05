@@ -1,13 +1,13 @@
 ---
 description: >-
-  Looking for the API key to setup your printing in PushPrinter? Follow these
-  simple steps;
+  ¿Busca la clave API para configurar su impresión en PushPrinter? Siga estos
+  sencillos pasos;
 ---
 
-# How to copy the printer API key
+# Cómo copiar la clave API de la impresora
 
-Go to Settings > System > Receipt Printing > Printer Setup.
+Vaya a Configuración > Sistema > Impresión de recibos > Configuración de impresora.
 
-If there is no existing printer.  Create the printer.  If there is an existing printer, simply click on the dark grey box surrounding the API key to automatically copy the api key to your clipboard.
+Si no hay ninguna impresora existente. Crea la impresora. Si hay una impresora existente, simplemente haga clic en el cuadro gris oscuro que rodea la clave API para copiar automáticamente la clave API a su portapapeles.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

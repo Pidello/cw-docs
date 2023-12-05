@@ -1,90 +1,92 @@
 ---
 description: >-
-  Learn about what's included with our reseller platform, our prices,
-  requirements and setup process
+  Conozca lo que incluye nuestra plataforma de revendedores, nuestros precios,
+  requisitos y proceso de configuración.
 ---
 
-# Overview
+# Resumen
 
-With a reseller account, you will get access to your own white-labelled and customized online admin interface hosted under your own domain. Any customer accounts created through this admin interface will be tagged under your main reseller account. These accounts are not tied into the CloudWaitress billing system at all and they will not receive any marketing e-mail from us. While you manage the billing of your customers, we will only bill you.
+Con una cuenta de revendedor, obtendrá acceso a su propia interfaz de administración en línea personalizada y con etiqueta blanca alojada en su propio dominio. Cualquier cuenta de cliente creada a través de esta interfaz de administración se etiquetará en su cuenta de revendedor principal. Estas cuentas no están vinculadas en absoluto al sistema de facturación de CloudWaitress y no recibirán ningún correo electrónico de marketing de nuestra parte. Mientras tú gestionas la facturación de tus clientes, nosotros solo te facturaremos a ti.
 
-## What's Included
+## Que incluye
 
-### Online Admin Interface
+### Interfaz de administración en línea
 
-The online admin interface we provide is the exact same as the one found on our website at [https://admin.cloudwaitress.com](https://admin.cloudwaitress.com), but as stated it is modified to your business and any references to CloudWaitress are stripped out. Any customer accounts created through your admin portal will be tagged as part of your reseller account. This admin interface is also where your customers will go to manage their account information and orders. This can be hosted at any domain name of your choice.
+La interfaz de administración en línea que proporcionamos es exactamente la misma que la que se encuentra en nuestro sitio web en [https://admin.pidello.com](https://admin.pidello.com), pero, como se indicó, se modifica para su negocio y se elimina cualquier referencia a Pidello. Cualquier cuenta de cliente creada a través de su portal de administración se etiquetará como parte de su cuenta de revendedor. Esta interfaz de administración también es el lugar al que acudirán sus clientes para administrar la información de su cuenta y sus pedidos. Esto se puede alojar en cualquier nombre de dominio de su elección.
 
-### Custom Domain Name Integration
+### Integración de nombres de dominio personalizados
 
-Under CloudWaitress, all new accounts can select a subdomain name under the main 'cloudwaitress.com' domain. As part of your reseller account, all online stores created will instead be assigned a sub-domain under your custom domain name.
+En Pidello, todas las cuentas nuevas pueden seleccionar un nombre de subdominio en el dominio principal 'pidello.com'. Como parte de su cuenta de revendedor, a todas las tiendas en línea creadas se les asignará un subdominio bajo su nombre de dominio personalizado.
 
-### Comprehensive Support
+### Soporte Integral Comprehensivo Support
 
-All our resellers can attest to the level of commitment we put into supporting them and their customers. We work very closely with them and see to it that they always get the support required. We also regularly take new feature requests.
+Todos nuestros revendedores pueden dar fe del nivel de compromiso que ponemos para brindarles soporte a ellos y a sus clientes. Trabajamos muy estrechamente con ellos y nos aseguramos de que siempre reciban el apoyo necesario. También aceptamos periódicamente solicitudes de nuevas funciones.
 
-### Access To All Platform Updates
+### Acceso a todas las actualizaciones de la plataforma
 
-Every update and fix that we release will be automatically added to your configuration and sites so you will always have the most up to date system.
+Cada actualización y corrección que publiquemos se agregará automáticamente a su configuración y sitios para que siempre tenga el sistema más actualizado.
 
-### Personalized System Customizations
+### Configuraciones personalizadas del sistema
 
-Here are some of the things we can customize for you:
+Estas son algunas de las cosas que podemos personalizar para usted:
 
-* Login / signup logo
-* Application name
-* Disable website sign up’s
-* Auto-verify email addresses
-* Pre-set store design & settings
-* Custom chat widget integration
-* Marketplace builder (optional)
+* Logotipo de inicio de sesión/registro&#x20;
+* Nombre de la aplicación
+* Deshabilitar el registro en el sitio web
+* Verificar automáticamente direcciones de correo electrónico&#x20;
+* Diseño y configuración de tienda preestablecidos
+* Integración de widget de chat personalizado
+* Creador de marketplace (opcional)
 
-## Pricing
+## Precio
 
-We only charge a low flat monthly cost per restaurant. Please get in touch with us to find out the exact amount. There are no other fees involved.
+Solo cobramos un costo mensual fijo y bajo por restaurante. Por favor póngase en contacto con nosotros para conocer el importe exacto. No hay otras tarifas involucradas.&#x20;
 
-We can support a revenue share model in specific circumstances.  Please contact us to discuss.
+Podemos respaldar un modelo de participación en los ingresos en circunstancias específicas. Por favor contáctenos para discutir.
 
-## Requirements
+## Requerimientos
 
-### Domain Name
+### Dominio
 
-You will need your own domain name to set up a reseller account. A domain name is used to host your admin dashboard application and your customer's online stores.
+Necesitará su propio nombre de dominio para configurar una cuenta de revendedor. Se utiliza un nombre de dominio para alojar la aplicación del panel de administración y las tiendas en línea de sus clientes.&#x20;
 
-For example, the admin interface can be located at "admin.example.com". All your online stores can be found at "(name).example.com". Optionally, a separate custom domain can be connected to your individual online stores.
+Por ejemplo, la interfaz de administración puede estar ubicada en "admin.example.com". Todas sus tiendas en línea se pueden encontrar en "(nombre).ejemplo.com". Opcionalmente, se puede conectar un dominio personalizado independiente a sus tiendas en línea individuales.
 
-### Support E-mail Address
+### E-mail de soporte
 
-We require one support email address to white-label all support and system emails sent to customers. This includes order notification e-mails. If this is not provided, your customers will receive emails from "support@cloudwaitress.com ".
+Requerimos una dirección de correo electrónico de soporte para etiquetar todos los correos electrónicos de soporte y del sistema enviados a los clientes. Esto incluye correos electrónicos de notificación de pedidos. Si no se proporciona esto, sus clientes recibirán correos electrónicos de "support@cloudwaitress.com".
 
 Please note, Gmail, Hotmail and other e-mail hosting providers will not work for this. A custom domain email address is mandatory.
 
-### Billing System (Optional)
+### Sistema de cobranza (Opcional)
 
-You will need a way to bill your clients as their subscription is not managed by us. We provide a system to manage you own billing and we also can provide an integration with Stripe for resellers to automate client billing.  Please note that extra fees and charges apply for Stipe processing.
+Necesitará una forma de facturar a sus clientes, ya que nosotros no administramos su suscripción. Proporcionamos un sistema para administrar su propia facturación y también podemos proporcionar una integración con Stripe para que los revendedores automaticen la facturación del cliente. Tenga en cuenta que se aplican tarifas y cargos adicionales por el procesamiento de Stipe.&#x20;
 
-We also support the collection of commissions from payments should you want to charge a percentage of sales or a fee per order.
+También apoyamos el cobro de comisiones de los pagos si desea cobrar un porcentaje de las ventas o una tarifa por pedido.
 
-## Setup Process
+## Proceso de configuración
 
-On average, it takes 7 days to complete the reseller account set up once we have gotten all the information required from you. Here are the steps involved:
+En promedio, se necesitan 7 días para completar la configuración de la cuenta de revendedor una vez que hayamos recibido toda la información requerida por usted. Estos son los pasos a seguir:
 
-1. Contact us and we will send you the online reseller sign up form
-2. Complete the form to start the process
-3. We will request your billing information along with the initial deposit.
-4. Once the deposit is confirmed, we will configure your reseller account&#x20;
-5. We will provide you with the necessary details to configure your web domain and to set up the platform
-6. After this, you can review your setup, create a demo account and make any post set up modifications
+1. Contáctenos y le enviaremos el formulario de registro de revendedor en línea&#x20;
+2. Completa el formulario para iniciar el proceso
+3. Solicitaremos su información de facturación junto con el depósito inicial.&#x20;
+4. Una vez confirmado el depósito, configuraremos su cuenta de revendedor.&#x20;
+5. Le proporcionaremos los detalles necesarios para configurar su dominio web y configurar la plataforma.
+6. Después de esto, puede revisar su configuración, crear una cuenta de demostración y realizar modificaciones posteriores a la configuración.
 
-## FAQ
 
-#### Difference between standard accounts and accounts created under your reseller system
 
-Reseller customer accounts do not have any subscription with CloudWaitress. This means they do not receive any bills, invoices or charges from us.
+## Preguntas Frecuentes
 
-Reseller customer accounts are not tied into our mailing systems meaning they do not receive any marketing/help emails from us.
+#### Diferencia entre cuentas estándar y cuentas creadas bajo su sistema de revendedor
 
-#### What should I charge my customers?
+Las cuentas de clientes revendedores no tienen ninguna suscripción a Pidello. Esto significa que no reciben ninguna factura, factura o cargo de nuestra parte.
 
-We want to have a mutually beneficial relationship with our resellers. We see our role as being able to provide a reliable and robust online ordering system that is always being improved. The role of the reseller lies in the implementation and packaging of the system for businesses.
+Las cuentas de clientes revendedores no están vinculadas a nuestros sistemas de correo, lo que significa que no reciben ningún correo electrónico de marketing o ayuda de nuestra parte.
 
-To avoid the issue of your clients potentially being upset at a difference in pricing from resellers and CloudWaitress itself, it's best to take a value-added pricing approach. What this means is to find ways to add value on top of the bare online ordering system. For example, you can offer packages that include system setup, facebook ad designs, printers, staff training, ongoing support and much more.
+**¿Qué debo cobrar a mis clientes?**
+
+Queremos tener una relación mutuamente beneficiosa con nuestros revendedores. Consideramos que nuestra función es poder proporcionar un sistema de pedidos en línea confiable y sólido que siempre se mejora. El papel del revendedor reside en la implementación y empaquetado del sistema para las empresas.
+
+Para evitar el problema de que sus clientes se molesten por la diferencia de precios entre los revendedores y el propio Pidello, es mejor adoptar un enfoque de precios de valor agregado. Lo que esto significa es encontrar formas de agregar valor además del simple sistema de pedidos en línea. Por ejemplo, puede ofrecer paquetes que incluyan configuración del sistema, diseños de anuncios en Facebook, impresoras, capacitación del personal, soporte continuo y mucho más.

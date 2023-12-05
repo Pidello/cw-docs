@@ -1,10 +1,10 @@
 ---
 description: >-
-  An in-depth look at some of the features we offer along with information on
-  managing your subscription
+  Una mirada en profundidad a algunas de las funciones que ofrecemos junto con
+  información sobre cómo administrar su suscripción.
 ---
 
-# Platform Information
+# Información de la plataforma
 
 {% content-ref url="customer-accounts.md" %}
 [customer-accounts.md](customer-accounts.md)
@@ -19,5 +19,5 @@ description: >-
 {% endcontent-ref %}
 
 {% hint style="info" %}
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+[Regresar a Pidello.com](https://pidello.paragonmedia.mx/)
 {% endhint %}

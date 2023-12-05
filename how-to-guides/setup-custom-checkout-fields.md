@@ -1,17 +1,16 @@
 ---
 description: >-
-  A quick overview video of how to add custom checkout fields per service in
-  CloudWaitress.
+  Un vídeo de descripción general rápida sobre cómo agregar campos de pago
+  personalizados por servicio en Pidello.
 ---
 
-# Setup Custom Checkout Fields
+# Configurar campos de pago personalizados
 
 {% embed url="https://youtu.be/qe9rAjuTE3w" %}
 
-* Go to settings &gt; Services
-* Choose the service that you would like to add a custom checkout field to.
-* Select 'Custom Checkout Fields'
-* Press 'Add new field'
-* Customise the field as required.
-* Press save and review the field.
-
+* Vaya a configuración > Servicios&#x20;
+* Elija el servicio al que le gustaría agregar un campo de pago personalizado.&#x20;
+* Seleccione 'Campos de pago personalizados'&#x20;
+* Presione 'Agregar nuevo campo'&#x20;
+* Personalice el campo según sea necesario.&#x20;
+* Presione guardar y revise el campo.

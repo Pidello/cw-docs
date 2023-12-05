@@ -1,45 +1,42 @@
 ---
 description: >-
-  Learn how to modify your subscription, add a payment method and manage your
-  account billing
+  Aprenda cómo modificar su suscripción, agregar un método de pago y administrar
+  la facturación de su cuenta
 ---
 
-# Your Subscription & Billing
+# Tu Suscripción y Facturación
 
-## Changing Subscription Plan
+## Cambiar el plan de suscripción
 
-1. Visit [https://admin.cloudwaitress.com](https://admin.cloudwaitress.com) and login
-2. Click **billing** on a restaurant in your restaurant list
-3. In the popup, select your subscription plan and press "Edit Subscription"
-4. Choose your plan from the drop down and press "Update Subscription"
+1. Visite [https://admin.pidello.com](https://admin.pidello.com) e inicie sesión&#x20;
+2. Haga clic en facturación en un restaurante de su lista de restaurantes&#x20;
+3. En la ventana emergente, seleccione su plan de suscripción y presione "Editar suscripción".&#x20;
+4. Elija su plan en el menú desplegable y presione "Actualizar suscripción"
 
-\|\| You will need to add a payment method before switching to a paid plan
+|| Deberá agregar un método de pago antes de cambiar a un plan pago
 
-## Add A Payment Method
+Actualmente solo aceptamos Visa, MasterCard y American Express. Para agregar un método de pago debes:
 
-We currently only accept, Visa, MasterCard, and American Express. To add a payment method you must:
+1. Visite [https://admin.pidello.com](https://admin.pidello.com) e inicie sesión
+2. Haga clic en **facturación** en un restaurante de su lista de restaurantes
+3. En la ventana emergente, seleccione "Métodos de pago" e ingrese los datos de su tarjeta.
 
-1. Visit [https://admin.cloudwaitress.com](https://admin.cloudwaitress.com) and login
-2. Click **billing** on a restaurant in your restaurant list
-3. In the popup, select "Payment Methods" and enter your card details
+## Ciclo de facturación
 
-## Billing Cycle
+Se le facturará el mismo día en que se activó su cuenta cada mes.
 
-You will be billed on the same day that your account was activated every month.
+## Pagos fallidos
 
-## Failed Payments
+Si su pago falla, le informaremos e intentaremos cargar su tarjeta nuevamente en 24 horas. Si vuelve a fallar, lo volveremos a intentar en 3 días y 3 días después si falla. Si el tercer intento de pago falla dentro de los 7 días posteriores a su pago inicial fallido, su cuenta será cancelada.
 
-If your payment fails, we will inform you and attempt to charge your card again in 24 hours. If it fails again, we will retry in 3 days and 3 days after if that fails. If the 3rd payment retry fails within 7 days of your initial failed payment, your account will be cancelled.
+## Cuentas Canceladas
 
-## Cancelled Accounts
+Si su cuenta ha sido cancelada debido a un pago fallido, ya no podrá aceptar pedidos. Sin embargo, su tienda seguirá en línea y se conservará toda su información.
 
-If your account has been cancelled due to a failed payment, you will no longer be able to accept orders. However, your store will still remain online and all your information will be kept.
-
-## Re-Activating Your Subscription
+## Reactivar Suscripción
 
 If your account is cancelled, add a valid payment method to re-active your subscription.
 
-## Refunds
+## Reembolsos
 
-Refunds will only be provided if our platform fails to meet its stated role when being used. Please contact us to discuss this.
-
+Solo se proporcionarán reembolsos si nuestra plataforma no cumple con la función indicada cuando se utiliza. Por favor contáctenos para discutir esto.
