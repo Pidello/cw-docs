@@ -36,5 +36,5 @@ description: >-
 {% endcontent-ref %}
 
 {% hint style="info" %}
-[Create account at CloudWaitress.com](https://www.cloudwaitress.com/signup/)
+Crea una cuenta en [admin.pidello.com](https://admin.pidello.com/)
 {% endhint %}
