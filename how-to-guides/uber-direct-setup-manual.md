@@ -1,105 +1,100 @@
-# Uber Direct Setup Manual
+# Manual de configuración de Uber Direct
 
-## **Requirements**
+## **Requiremientos**
 
-To enable Uber deliveries, the restaurant should have all the following:
+Para habilitar las entregas de Uber, el restaurante debe tener todo lo siguiente:
 
 * Stripe Connect
-* Restaurant from the following countries:
+* Restaurante de los siguientes países:
   * Australia
   * New Zealand
 
-## Enabling Uber
+## Habilitando Uber
 
-Uber DaaS is a reliable and convenient way to get your food delivered quickly and efficiently. Here's how to enable it:
+Uber DaaS es una forma confiable y conveniente de recibir tu comida de manera rápida y eficiente. Aquí se explica cómo habilitarlo:
 
-1. On the Admin Dashboard, click Settings > Integrations and find the Uber Delivery Management card and click on it.
+1. En el Panel de administración, haga clic en Configuración > Integraciones, busque la tarjeta Uber Delivery Management y haga clic en ella.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-05-10 at 9.52.37 AM.png" alt=""><figcaption></figcaption></figure>
 
-2. A popup will open and fill up the information. Click Save.
+2. Se abrirá una ventana emergente y completará la información. Clic en Guardar.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-05-10 at 9.56.08 AM.png" alt=""><figcaption></figcaption></figure>
 
-3. Set Uber as Default Delivery
+3. Establecer Uber como entrega predeterminada
 
-Once you have enabled Uber DaaS, you can select the Default Delivery Provider in the Settings > Services > Deliveries (as shown in the image below)
+Una vez que haya habilitado Uber DaaS, puede seleccionar el Proveedor de entrega predeterminado en Configuración > Servicios > Entregas (como se muestra en la imagen a continuación).
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-05-10 at 9.47.12 AM.png" alt=""><figcaption></figcaption></figure>
 
-### Notes:
+### Notas:
 
-* Make sure that your Map Data Source is Google Maps. Go to Settings > System > Location > Map Data Source.
+* Asegúrese de que su fuente de datos de mapas sea Google Maps. Vaya a Configuración > Sistema > Ubicación > Fuente de datos del mapa.
 
 <figure><img src="../.gitbook/assets/Uber Screenshot 2023-05-09 at 6.38.47 PM.png" alt=""><figcaption></figcaption></figure>
 
-* Currency must match the country’s location and Uber country availability. Go to Settings > System > General > Currency.
+* La moneda debe coincidir con la ubicación del país y la disponibilidad del país de Uber. Vaya a Configuración > Sistema > General > Moneda.
 
 <figure><img src="../.gitbook/assets/Uber Screenshot 2023-05-09 at 6.41.14 PM.png" alt=""><figcaption></figcaption></figure>
 
-* Uber requires valid phone number from your store (Must have the country code). Go to Settings > System > Location > Phone Number.
+* Uber requiere un número de teléfono válido de su tienda (debe tener el código del país). Vaya a Configuración > Sistema > Ubicación > Número de teléfono.
 
 <figure><img src="../.gitbook/assets/Uber Screenshot 2023-05-09 at 6.43.23 PM.png" alt=""><figcaption></figcaption></figure>
 
-## Checkout Details
+## Detalles de pago
 
-Once a customer checkout an order, the Uber (if set as the Default Delivery Provider in Admin Dashboard) will be displayed as the Delivery Provider.
+Una vez que un cliente realiza un pedido, Uber (si está configurado como proveedor de entrega predeterminado en el Panel de administración) se mostrará como proveedor de entrega.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-09 at 7.06.03 PM.png" alt=""><figcaption></figcaption></figure>
 
-#### The Delivery Estimation will provide the:
+**La estimación de entrega proporcionará:**
 
-**Delivery Provider** - which is Uber
+**Proveedor de entrega:** que es Uber
 
-**Estimated Fee** - the total fee
+**Tarifa estimada:** la tarifa total
 
-**Tips** - entered by the user and will be sent to the Uber driver directly
+**Propinas:** ingresadas por el usuario y se enviarán directamente al conductor de Uber
 
-**Estimated Delivery Time** - time from now to drop off
+**Tiempo estimado de entrega:** tiempo desde ahora hasta la entrega
 
+**El Método de Pago aceptable será el siguiente:**
 
+**Tarjeta de crédito:** si está habilitada y se proporciona el ID de cuenta de Stripe Connect
 
-#### The acceptable Payment Method will be the following:
+**Pago de Apple | Google Pay (Stripe) -** si está habilitado
 
-**Credit Card** - if enabled and with Stripe Connect account ID provided
+## Flujo de trabajo de pedidos
 
-**Apple Pay** | **Google Pay (Stripe**) - if enabled
+Una vez que el cliente realizó el pedido, en el Panel de administración, la miniatura del pedido se reemplazará por el logotipo de Uber (lo que indica que utilizará Uber).
 
-
-
-## Order Workflow
-
-Once the customer made the order, in Admin Dashboard, the order’s thumbnail will be replaced to the Uber logo (denoting that it will use Uber)
-
-#### Order: UNCONFIRMED
+#### Orden: SIN CONFIRMAR
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-09 at 7.44.43 PM.png" alt=""><figcaption></figcaption></figure>
 
-#### Order: CONFIRMED
+#### Orden: CONFIRMADO
 
-The order **SHOULD** go through to the **CONFIRMED** status to trigger the Uber delivery request.
+El pedido **DEBE** pasar al estado **CONFIRMADO** para activar la solicitud de entrega de Uber.
 
-Once the order is set to CONFIRMED, the Delivery Tracking URL will be available both in the ADMIN and the CUSTOMER.
+Una vez que el pedido esté configurado como CONFIRMADO, la URL de seguimiento de entrega estará disponible tanto en el ADMIN como en el CLIENTE.
 
-<figure><img src="../.gitbook/assets/Untitled (7).png" alt=""><figcaption><p>Admin Order View</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (7).png" alt=""><figcaption><p>Vista de orden de administrador</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Untitled (4).png" alt=""><figcaption><p>Customer Order View</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (4).png" alt=""><figcaption><p>Vista de pedido del cliente</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Untitled (5).png" alt=""><figcaption><p>Sample Screenshot of the Tracking URL</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (5).png" alt=""><figcaption><p>Captura de pantalla de muestra de la URL de seguimiento</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Untitled (6).png" alt=""><figcaption><p>SMS sent by Uber to the recipient.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (6).png" alt=""><figcaption><p>SMS enviado por Uber al destinatario.</p></figcaption></figure>
 
-#### Order: READY
+#### Orden: LISTO
 
 <figure><img src="../.gitbook/assets/Untitled (9).png" alt=""><figcaption><p>Customer Order View</p></figcaption></figure>
 
-It is expected that the driver is still on route to the restaurant or is waiting in the restaurant.
+Se espera que el conductor todavía esté en camino al restaurante o esté esperando en el restaurante.
 
-#### Order: ON ROUTE
+#### Orden: EN RUTA
 
 <figure><img src="../.gitbook/assets/Untitled (10).png" alt=""><figcaption><p>Admin Order View</p></figcaption></figure>
 
-#### Order: CANCELLED
+#### Orden: CANCELADA
 
-If the Order is cancelled (initiated by the customer or the store), the Uber delivery will be automatically cancelled as well
-
+Si el Pedido se cancela (iniciado por el cliente o la tienda), la entrega Uber también se cancelará automáticamente.

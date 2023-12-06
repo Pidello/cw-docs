@@ -1,9 +1,9 @@
 ---
 description: >-
-  More information on using and customising the language settings inside of
-  CloudWaitress.
+  Más información sobre el uso y personalización de la configuración de idioma
+  dentro de Pidello.
 ---
 
-# Understanding Languages
+# Comprensión de idiomas
 
 [how-users-can-change-languages-on-frontend.md](how-users-can-change-languages-on-frontend.md "mention")

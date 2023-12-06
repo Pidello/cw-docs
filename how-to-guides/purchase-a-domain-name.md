@@ -1,52 +1,52 @@
 ---
 description: >-
-  Learn how to purchase a domain name to connect to your online store with our
-  recommended provider
+  Aprenda cómo comprar un nombre de dominio para conectarse a su tienda en línea
+  con nuestro proveedor recomendado
 ---
 
-# Purchase A Domain Name
+# Comprar un nombre de dominio
 
-## The Process
+## El Proceso
 
-Purchasing and setting up your own domain is a very simple process that takes about 15 minutes. The below guide will help you do this with [https://www.namecheap.com](https://www.namecheap.com) as this is our recommend domain registrar.
+Comprar y configurar tu propio dominio es un proceso muy sencillo que tarda unos 15 minutos. La siguiente guía lo ayudará a hacer esto con [https://www.godaddy.com](https://www.godaddy.com), ya que este es nuestro registrador de dominios recomendado.
 
-1. Visit the Namecheap website at [https://www.namecheap.com](https://www.namecheap.com)
-2. Use the domain name search box at the center of the page to look for a domain name
-3. Add the domain name of your choice to your cart
-4. Press the "View Cart" button on the right to progress through the checkout
-5. We recommend disabling the "WhoisGuard" option as this is not ideal for public businesses.
-6. Select "Confirm Order" button on the right side
-7. Complete your order by creating an account and entering your payment details.
+1. Visite el sitio web de Namecheap en [https://www.godaddy.com](https://www.godaddy.com)
+2. Utilice el cuadro de búsqueda de nombres de dominio en el centro de la página para buscar un nombre de dominio.&#x20;
+3. Añade el nombre de dominio de tu elección a tu carrito&#x20;
+4. Presione el botón "Ver carrito" a la derecha para avanzar en el proceso de pago Recomendamos desactivar la opción "WhoisGuard", ya que no es ideal para empresas públicas.&#x20;
+5. Seleccione el botón "Confirmar pedido" en el lado derecho
+6. Complete su pedido creando una cuenta e ingresando sus datos de pago.
 
 {% hint style="info" %}
-You can watch the following YouTube video to see a video walkthrough of how to do this - [https://www.youtube.com/watch?v=Zbcn4skYXqM](https://www.youtube.com/watch?v=Zbcn4skYXqM)
+Puede ver el siguiente vídeo de YouTube para ver un tutorial en vídeo sobre cómo hacer esto: [https://www.youtube.com/watch?v=jte2QC0upuY](https://www.youtube.com/watch?v=jte2QC0upuY)
 {% endhint %}
 
-Once you have purchased a domain, you will need to complete the steps in our other article "Setup A Custom Domain". You will need to access your domain DNS settings to complete those steps. On Namecheap, you can do this by:
+Una vez que haya comprado un dominio, deberá completar los pasos de nuestro otro artículo "Configurar un dominio personalizado". Deberá acceder a la configuración DNS de su dominio para completar esos pasos. En Godaddy, puedes hacer esto de la siguiente manera:
 
-1. Logging in to Namecheap and going to your account dashboard
-2. Select the "Domains List" on the left menu
-3. Select the "Manage" button beside your domain name
-4. Navigate to the "Advanced DNS" tab under your domain settings
-5. Press "Add New Record" to create a DNS record. 
+1. Iniciar sesión en Namecheap y acceder al panel de su cuenta&#x20;
+2. Seleccione la "Lista de dominios" en el menú de la izquierda&#x20;
+3. Seleccione el botón "Administrar" al lado de su nombre de dominio&#x20;
+4. Navegue a la pestaña "DNS avanzado" en la configuración de su dominio&#x20;
+5. Presione "Agregar nuevo registro" para crear un registro DNS.
 
 {% hint style="warning" %}
-You may have to remove some default records already set in order to add ours
+Es posible que tengas que eliminar algunos registros predeterminados ya configurados para poder agregar los nuestros.
+
+Puedes ver como hacerlo aquí: [https://www.youtube.com/watch?v=KhhART8ZhOU](https://www.youtube.com/watch?v=KhhART8ZhOU)
 {% endhint %}
 
-## Additional Info
+## Información adicional
 
-### **What Is A Web Domain?**
+### ¿Qué es un dominio web?
 
-A domain is any web address, for example, 'google.com' is a domain.
+Un dominio es cualquier dirección web; por ejemplo, 'google.com' es un dominio.
 
-### **Your Sub-domain**
+### **Tu Sub-dominio**
 
-Your store will be accessible on your own unique subdomain that you can choose. Your subdomain will always be hosted under "example.cloudwaitress.com". Every subdomain must be unique and is taken on a first come first serve basis.
+Se podrá acceder a su tienda en su propio subdominio único que puede elegir. Su subdominio siempre estará alojado en "ejemplo.cloudwaitress.com". Cada subdominio debe ser único y se toma por orden de llegada.
 
-### **Custom Domain**
+### **Dominio Personalizado**
 
-A custom domain is a domain name you purchase and connect to our service. You can register any domain name available such as "yourbusiness.com" and connect it to our service. This way customers can go directly your domain name to find your online ordering system.
+Un dominio personalizado es un nombre de dominio que usted compra y se conecta a nuestro servicio. Puede registrar cualquier nombre de dominio disponible, como "sunegocio.com", y conectarlo a nuestro servicio. De esta manera, los clientes pueden ir directamente a su nombre de dominio para encontrar su sistema de pedidos en línea.
 
-It is often desirable to have your own domain name for your store in order to better promote your own brand and business. It is much easier to tell your customers to find you at "order.yourbusiness.com" instead of "yourbusiness.cloudwaitress.com".
-
+A menudo es deseable tener su propio nombre de dominio para su tienda con el fin de promocionar mejor su propia marca y negocio. Es mucho más fácil decirles a sus clientes que lo encuentren en "orderna.sunegocio.com" en lugar de "sunegocio.pidello.com".

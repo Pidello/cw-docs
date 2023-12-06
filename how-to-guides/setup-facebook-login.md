@@ -1,54 +1,53 @@
 ---
 description: >-
-  Learn how to setup the Facebook login system for customers to easily create
-  accounts using Facebook
+  Aprenda cómo configurar el sistema de inicio de sesión de Facebook para que
+  los clientes creen cuentas fácilmente usando Facebook
 ---
 
-# Setup Facebook Login
+# Configurar Facebook Login
 
-Visit [https://developers.facebook.com/](https://developers.facebook.com/) and login to your Facebook account
+Visite [https://developers.facebook.com/](https://developers.facebook.com/) e inicie sesión en su cuenta de Facebook
 
-On the top right corner, select "My Apps" and press "Add New App"
+En la esquina superior derecha, seleccione "Mis aplicaciones" y presione "Agregar nueva aplicación".
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_aqheot.png)
+![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_aqheot.png)
 
-Fill out the form and create the app
+Rellena el formulario y crea la aplicación.&#x20;
 
-On the app dashboard the left menu, select "Settings &gt; Basic". Enter your website domain into the "App Domains" field
+En el menú de la izquierda del panel de la aplicación, seleccione "Configuración > Básico". Ingrese el dominio de su sitio web en el campo "Dominios de aplicación"
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_iokp6p.png)
+![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_iokp6p.png)
 
-Scroll down and press the "Add Platform" button and select "Website
+Desplácese hacia abajo y presione el botón "Agregar plataforma" y seleccione "Sitio web
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_5fdlaq.png)
+![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_5fdlaq.png)
 
-Enter your ordering site URL into the "Site URL" box and then press "Save Changes" on the bottom right.
+Ingrese la URL de su sitio de pedidos en el cuadro "URL del sitio" y luego presione "Guardar cambios" en la parte inferior derecha.
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_pa5uog.png)
+![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_pa5uog.png)
 
-On the left navigation menu, press "Products" and press the "Set Up" button for Facebook Login.
+En el menú de navegación de la izquierda, presione "Productos" y presione el botón "Configurar" para iniciar sesión en Facebook.&#x20;
 
-On the next screen, select "Web", you should see your "Site URL" already filled out, press "Save"
+En la siguiente pantalla, seleccione "Web", debería ver la "URL del sitio" ya completada, presione "Guardar".
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_gdcuti.png)
+![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_gdcuti.png)
 
-On the left menu, under "Products &gt; Facebook Login", select "Settings"
+En el menú de la izquierda, en "Productos > Inicio de sesión con Facebook", seleccione "Configuración"&#x20;
 
-Enable "Embedded Browser OAuth Login"
+Habilite el "Inicio de sesión OAuth en el navegador integrado"&#x20;
 
-Enter your store domain into the "Valid OAuth Redirect URIs" field and press "Save Changes"
+Ingrese el dominio de su tienda en el campo "URI de redireccionamiento de OAuth válidos" y presione "Guardar cambios".
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_hbyf21.png)
+![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_hbyf21.png)
 
-Finally, copy your Facebook App ID as shown on the top of the app dashboard
+Finalmente, copie su ID de aplicación de Facebook como se muestra en la parte superior del panel de la aplicación.
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_yxw5jy.png)
+![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_yxw5jy.png)
 
-With the App ID copied, visit your restaurant dashboard and to "Settings &gt; System &gt; Customer Accounts &gt; Facebook". Paste your App ID and press save
+Con el ID de la aplicación copiado, visita el panel de tu restaurante y ve a "Configuración > Sistema > Cuentas de clientes > Facebook". Pega tu ID de aplicación y presiona guardar
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_u1lgnf.png)
+![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_u1lgnf.png)
 
-Visit your online store and confirm that the Facebook login option is available under the "Login / Signup" popup
+Visite su tienda en línea y confirme que la opción de inicio de sesión de Facebook esté disponible en la ventana emergente "Iniciar sesión/Registrarse".
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1c1swn7.png)
-
+![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1c1swn7.png)

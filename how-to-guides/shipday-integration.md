@@ -1,43 +1,40 @@
 ---
 description: >-
-  Driver Tracking powered by Shipday.com (previously know as QuestTag.com)
-  provides customer notifications with real-time delivery driver tracking for
-  CloudWaitress delivery orders.
+  Driver Tracking impulsado por Shipday.com (anteriormente conocido como
+  QuestTag.com) proporciona notificaciones a los clientes con seguimiento del
+  conductor de entrega en tiempo real para los pedidos
 ---
 
-# How to add Driver Tracking
+# Cómo agregar Rastreo de conductores
 
-## Features
+## Características
 
-* Easy-to-use dashboard
-* CloudWaitress orders automatically added
-* Real-time tracking of drivers for restaurant and customer
-* Mobile app for drivers
-* Customer email notifications
-* Driver payments and tips tracking
-* Customer text notifications \(paid\)
-* Auto-dispatching \(paid\)
+* Panel de control fácil de usar&#x20;
+* Los pedidos de CloudWaitress se agregan automáticamente
+* Seguimiento en tiempo real de conductores para restaurante y cliente.&#x20;
+* Aplicación móvil para conductores
+* Notificaciones por correo electrónico del cliente
+* Seguimiento de pagos y propinas a los conductores
+* Notificaciones de texto para clientes (pagas)
+* Envío automático (pago)
 
-## Set-up Shipday Integration
+## Configurar Integración con Shipday
 
 {% embed url="https://youtu.be/ZRzKbq3M-co" %}
 
-1. Open your CloudWaitress account - [admin.cloudwaitress.com](https://admin.cloudwaitress.com/).
-2. Select 'Manage' for the Restaurant you would like to integrate.
-3. Go to 'Settings' &gt; 'Integrations' &gt; Click on the 'Shipday Logo'.
-4. Paste the Shipday API key from your Shipday.com account.
-5. Check the 'Enabled' button and press save.
-6. The integration is now live.
+1. Abra su cuenta de CloudWaitress: admin.pidello.com.
+2. Seleccione 'Administrar' para el Restaurante que desea integrar.
+3. Vaya a 'Configuración' > 'Integraciones' > Haga clic en el 'Logotipo de Shipday'.
+4. Pegue la clave API de Shipday de su cuenta de Shipday.com.
+5. Marque el botón 'Activado' y presione guardar.
+6. La integración ya está activa.
 
 {% hint style="danger" %}
-Please make sure that you have Wait Times & Auto Statuses configured.  Otherwise, the integration will not work.
+Asegúrese de tener configurados los tiempos de espera y los estados automáticos. De lo contrario, la integración no funcionará.
 
-**Find at**: 'Settings &gt; Services &gt; Deliveries &gt; Wait Times & Auto Statuses'.
+**Busque en:** 'Configuración > Servicios > Entregas > Tiempos de espera y estados automáticos'.
 {% endhint %}
 
-![See drivers and deliveries in the Shipday &apos;Map&apos; section.](../.gitbook/assets/screen-shot-2020-08-29-at-8.20.24-pm.png)
+![Vea los conductores y las entregas en la sección 'Mapa' de Shipday.](../.gitbook/assets/screen-shot-2020-08-29-at-8.20.24-pm.png)
 
-## 
-
-
-
+##

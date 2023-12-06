@@ -1,84 +1,85 @@
 ---
-description: Enhance Customer Loyalty with Cloudwaitress and Walletly
+description: Mejore la lealtad del cliente con Pidello y Walletly
 ---
 
-# Cloudwaitress and Walletly
+# Pidello y Walletly
 
-## <mark style="color:purple;">Step 01: Online Order</mark>&#x20;
+## Paso 01: pedido en línea
 
-Go to your website
+Ir a su sitio web
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 11.31.28 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Step 02: Place the test order</mark>&#x20;
+## Paso 02: Realizar el pedido de prueba
 
-When you visit the CW store website, you have two options to place your order: either proceed as a guest, or sign up as a customer. If you choose to place an order as a guest, you won't need to create an account on the website. However, signing up as a customer allows you to save your personal information, payment details, and order history for future use.\
-\
-To place an order as a guest, simply select the "Guest" option on the website's homepage, and follow the instructions to place your order. Alternatively, if you prefer to sign up as a customer, select the "Sign Up" option on the homepage and follow the instructions to create an account. Once you have an account, you can place your order by selecting the desired items and adding them to your cart.
+Cuando visita el sitio web de la tienda CW, tiene dos opciones para realizar su pedido: continuar como invitado o registrarse como cliente. Si elige realizar un pedido como invitado, no necesitará crear una cuenta en el sitio web. Sin embargo, registrarse como cliente le permite guardar su información personal, detalles de pago e historial de pedidos para uso futuro.
 
-To ensure your order is successful, make sure your order amount exceeds $100 and select "cash" as your payment type. This will ensure a smooth transaction when your order is delivered.
+Para realizar un pedido como invitado, simplemente seleccione la opción "Invitado" en la página de inicio del sitio web y siga las instrucciones para realizar su pedido. Alternativamente, si prefiere registrarse como cliente, seleccione la opción "Registrarse" en la página de inicio y siga las instrucciones para crear una cuenta. Una vez que tenga una cuenta, puede realizar su pedido seleccionando los artículos deseados y agregándolos a su carrito.&#x20;
+
+Para garantizar que su pedido se realice correctamente, asegúrese de que el monto de su pedido supere los $100 y seleccione "efectivo" como tipo de pago. Esto garantizará una transacción sin problemas cuando se entregue su pedido.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 10.45.34 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Step 03: Complete the test order</mark>
+## Paso 03: Complete el pedido de prueba
 
-After you have placed your order on the CW store website, you will need to log in to your account on the CW website to ensure that your order is complete. To do this, please follow the instructions below:
+Después de haber realizado su pedido en el sitio web de la tienda CW, deberá iniciar sesión en su cuenta en el sitio web de CW para asegurarse de que su pedido esté completo. Para hacer esto, siga las instrucciones a continuación:
 
-1\) Go to the your website\
-2\) Enter your login credentials. \
-3\) Once you have successfully logged in, navigate to the "Orders" section of your account     dashboard. Here, you should be able to see your recent order, including details such as the items ordered, order status, and expected delivery date.\
-4\) Verify that your order is complete and accurate. If you notice any issues with your order, such as missing items or incorrect delivery information, please contact CW customer support for assistance.
+1\) Ir a su sitio web\
+2\) Ingrese sus credenciales de inicio de sesión.\
+3\) Una vez que haya iniciado sesión correctamente, navegue hasta la sección "Pedidos" del panel de su cuenta. Aquí debería poder ver su pedido reciente, incluidos detalles como los artículos solicitados, el estado del pedido y la fecha de entrega prevista.\
+4\)Verifique que su pedido esté completo y sea preciso. Si nota algún problema con su pedido, como artículos faltantes o información de entrega incorrecta, comuníquese con el servicio de atención al cliente de CW para obtener ayuda.
 
-By logging into your CW account and verifying your order details, you can ensure that your order is processed correctly and delivered to you in a timely manner.&#x20;
+Al iniciar sesión en su cuenta de CW y verificar los detalles de su pedido, puede asegurarse de que su pedido se procese correctamente y se le entregue de manera oportuna.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 10.57.39 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Step 04: Login in Wallelty</mark>
+## Paso 04: Inicia sesión en Wallelty
 
-After you have placed your order and verified its completion on the CW wesite, you may want to check your Wallety account to ensure that your payment and transaction information is up to date) To log in to your Wallety account, please follow these instructions 
+Después de haber realizado su pedido y verificado su finalización en el sitio de CW we, es posible que desee verificar su cuenta de Wallety para asegurarse de que su información de pago y transacción esté actualizada) Para iniciar sesión en su cuenta de Wallety, siga estas instrucciones 
 
-1\) Go to the followingwebsite:  [https://walletly.xyz/](https://walletly.xyz/)\
-2\) Enter your loin credentials : Username & password
+1. Vaya al siguiente sitio web: https://walletly.xyz/
+2. Ingrese sus credenciales de inicio de sesión: nombre de usuario y contraseña
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 11.08.24 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Step 05: Verify Transactions</mark>
+## Paso 05: Verificar transacciones
 
-It is important to note that multiple accounts can be connected to one Wallety account. Therefore, when you log in to your Wallety account, make sure that you have selected the appropriate account.
+Es importante tener en cuenta que se pueden conectar varias cuentas a una cuenta Wallety. Por lo tanto, cuando inicie sesión en su cuenta Wallety, asegúrese de haber seleccionado la cuenta adecuada.&#x20;
 
-Once you have successfully logged in to your Wallety account and ensured that the correct account is selected, navigate to the "Transactions" section to review any recent transactions related to your CW order. Here, you can check that your payment was processed correctly, and that the transaction details are accurate and up to date.
+Una vez que haya iniciado sesión exitosamente en su cuenta Wallety y se haya asegurado de haber seleccionado la cuenta correcta, navegue hasta la sección "Transacciones" para revisar cualquier transacción reciente relacionada con su pedido de CW. Aquí puede comprobar que su pago se procesó correctamente y que los detalles de la transacción son precisos y están actualizados.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 11.13.03 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Step 06: Verify Points in Cloud Waitress</mark>
+## Paso 06: Verificar puntos en Pidello
 
-After your transaction has been completed and your payment has been processed, you can verify the points earned in Cloud Waitress (CW). There are two ways to do this:
+Una vez que se haya completado su transacción y se haya procesado su pago, puede verificar los puntos obtenidos en Cloud Waitress (CW). Hay dos maneras de hacer esto:
 
-### Option 1: Log in to Widget
+### Opción 1: iniciar sesión en el widget
 
-1\) Log in to the CW Widget using your login credentials\
-2\) Check your point balance on the Widget dashboard. Your points earned should be reflected here.
+1\) Inicie sesión en el widget CW con sus credenciales de inicio de sesión&#x20;
 
-### Option 2: Log in to your CW account
+2\) Verifique su saldo de puntos en el panel de widgets. Tus puntos ganados deberían reflejarse aquí.
 
-1\)  Log in to your CW account using your login credentials\
-2\) Check the top-end corner of the CW store page. Your points earned should be displayed here.
+### Opción 2: inicie sesión en su cuenta CW
 
-Either of these methods will allow you to verify that your points have been correctly credited to your CW account. If you notice any discrepancies or issues with your point balance, please contact CW customer support for assistance.&#x20;
+1\) Inicie sesión en su cuenta CW utilizando sus credenciales de inicio de sesión\
+2\) Consulte la esquina superior de la página de la tienda CW. Sus puntos ganados deben mostrarse aquí.
+
+Cualquiera de estos métodos le permitirá verificar que sus puntos hayan sido acreditados correctamente en su cuenta CW. Si nota alguna discrepancia o problema con su saldo de puntos, comuníquese con el servicio de atención al cliente de CW para obtener ayuda.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 11.22.51 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Step 07: Redeem Coupon</mark>
+## Paso 07: Canjear cupón
 
-If you have earned points in Cloud Waitress (CW) and would like to use them, you can do so by following these instructions:
+Si has ganado puntos en Pidello (CW) y quieres utilizarlos, puedes hacerlo siguiendo estas instrucciones:
 
-1\) Log in to the CW Widget using your login credentials\
-2\) Check your point balance on the Widget dashboard and copy the coupon code\
-3\) When placing your next order on the CW store website, enter the coupon code in the designated field during checkout\
-4\) The value of the coupon should be applied to your order, allowing you to use your points towards your purchase.
+1\) Inicie sesión en el widget CW con sus credenciales de inicio de sesión\
+2\) Verifique su saldo de puntos en el panel de widgets y copie el código de cupón\
+3\) Al realizar su próximo pedido en el sitio web de la tienda CW, ingrese el código de cupón en el campo designado durante el pago\
+4\) El valor del cupón debe aplicarse a su pedido, lo que le permitirá utilizar sus puntos para su compra.
 
-Note that the coupon code can only be used once and must be redeemed within the specified period. If you encounter any issues while trying to use your points or redeem the coupon, please contact CW customer support for assistance.
+Tenga en cuenta que el código de cupón solo se puede utilizar una vez y debe canjearse dentro del período especificado. Si tiene algún problema al intentar utilizar sus puntos o canjear el cupón, comuníquese con el servicio de atención al cliente de CW para obtener ayuda.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 11.27.58 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-\
+\\

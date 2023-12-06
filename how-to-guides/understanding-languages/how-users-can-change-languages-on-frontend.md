@@ -1,9 +1,11 @@
 ---
-description: Instructions on how users can change the default language for ordering.
+description: >-
+  Instrucciones sobre cómo los usuarios pueden cambiar el idioma predeterminado
+  para realizar pedidos.
 ---
 
-# How users can change languages on frontend
+# Cómo los usuarios pueden cambiar idiomas en el frontend
 
-The default store settings allow the selection of languages for store users to change between the default language.  In the user interface, simply click the language dropdown and select the preferred language, as per illustrated below;
+La configuración predeterminada de la tienda permite la selección de idiomas para que los usuarios de la tienda cambien entre el idioma predeterminado. En la interfaz de usuario, simplemente haga clic en el menú desplegable de idiomas y seleccione el idioma preferido, como se ilustra a continuación:
 
 <figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>

@@ -1,18 +1,18 @@
 ---
 description: >-
-  The General Data Protection Regulation (GDPR) is a regulation in EU law on
-  data protection and privacy in the European Union and the European Economic
-  Area.
+  El Reglamento General de Protección de Datos (GDPR) es un reglamento de la
+  legislación de la UE sobre protección de datos y privacidad en la Unión
+  Europea y el Espacio Económico Europeo.
 ---
 
-# How To Opt-Out of Google Fonts
+# Cómo darse de baja de las fuentes alojadas en Google
 
-The GDPR is an important component of EU privacy law and of human rights law, in particular Article 8 of the Charter of Fundamental Rights of the European Union.&#x20;
+El RGPD es un componente importante de la ley de privacidad de la UE y de la ley de derechos humanos, en particular el artículo 8 de la Carta de los Derechos Fundamentales de la Unión Europea.&#x20;
 
-Some countries interpretation of these laws indicate that the use of Google hosted fonts may breach these policies.  We have therefore made the use Google hosted fonts optional for those who want to disable this feature.  You can still use locally hosted Google Fonts inside the product, however the selection is more limited.
+La interpretación de estas leyes en algunos países indica que el uso de fuentes alojadas en Google puede infringir estas políticas. Por lo tanto, hemos hecho que el uso de fuentes alojadas en Google sea opcional para aquellos que quieran desactivar esta función. Aún puedes utilizar fuentes de Google alojadas localmente dentro del producto, aunque la selección es más limitada.
 
-1. Go to Settings > Website > Fonts
+1. Vaya a Configuración > Sitio web > Fuentes
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-2\.  This will limit the system from accessing Google Fonts. Click “Save” once enabled/disabled.
+2\. Esto limitará el acceso del sistema a Google Fonts. Haga clic en "Guardar" una vez habilitado/deshabilitado.

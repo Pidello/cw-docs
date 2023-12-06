@@ -1,12 +1,9 @@
-# How to Show/Hide Header Function
+# Cómo mostrar/ocultar la función de encabezado
 
-
-
-On the Admin Dashboard, go to Settings > click Website > Header
+En el Panel de administración, vaya a Configuración > haga clic en Sitio web > Encabezado
 
 <figure><img src="../.gitbook/assets/Show.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Header Show.png" alt=""><figcaption><p>Header function is Enabled (Header Background Image, Header Logo, Header Title and Subtitle are shown)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Header Show.png" alt=""><figcaption><p>La función de encabezado está habilitada (se muestran la imagen de fondo del encabezado, el logotipo del encabezado, el título del encabezado y el subtítulo)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Hidden Header.png" alt=""><figcaption><p>Header Function is Disabled (Header Background Image, Header Logo, Header Title and Subtitle are hidden)</p></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/Hidden Header.png" alt=""><figcaption><p>La función de encabezado está deshabilitada (la imagen de fondo del encabezado, el logotipo del encabezado, el título del encabezado y el subtítulo están ocultos)</p></figcaption></figure>

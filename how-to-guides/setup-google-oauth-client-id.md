@@ -1,29 +1,30 @@
 ---
 description: >-
-  Setting up Google OAuth client ID will allow your customers to login via their
-  google account. This support guide will help you with the setup process.
+  La configuración de la ID de cliente de Google OAuth permitirá a sus clientes
+  iniciar sesión a través de su cuenta de Google. Esta guía de soporte lo
+  ayudará con el proceso de configuración.
 ---
 
-# Setup Google OAuth Client ID
+# Configure inicio de sesión con Google OAuth Client ID
 
-## How to setup Google OAuth Client ID
+## Como configurar Google OAuth Client ID
 
-1. Go to the [Google Cloud Platform Console](https://console.cloud.google.com/).
-2. From the projects list, select a project or create a new one.
-3. If the APIs & services page isn't already open, open the console left side menu and select APIs & services.
-4.  On the left, click Credentials.
+1. Ir a  [Google Cloud Platform Console](https://console.cloud.google.com/).
+2. De la lista de proyectos, seleccione un proyecto o cree uno nuevo.
+3. Si la página API y servicios aún no está abierta, abra el menú del lado izquierdo de la consola y seleccione API y servicios.
+4.  A la izquierda, haga clic en Credenciales.
 
     <figure><img src="../.gitbook/assets/Screen Shot 2023-10-13 at 5.09.09 AM.png" alt=""><figcaption></figcaption></figure>
-5. Click New Credentials, then select OAuth client ID.
+5. Haga clic en Nuevas credenciales y luego seleccione ID de cliente de OAuth.
 
 {% hint style="warning" %}
-Note: If you're unsure whether OAuth 2.0 is appropriate for your project, select Help me choose and follow the instructions to pick the right credentials.
+Nota: Si no está seguro de si OAuth 2.0 es apropiado para su proyecto, seleccione Ayúdame a elegir y siga las instrucciones para elegir las credenciales correctas.
 {% endhint %}
 
-6. Select the appropriate application type for your project and enter any additional information required. Application types are described in more detail in the following sections.
-7. If this is your first time creating a client ID, you can also configure your consent screen by clicking Consent Screen. (The [following procedure](https://support.google.com/cloud/answer/6158849?hl=en#userconsent) explains how to set up the Consent screen.) You won't be prompted to configure the consent screen after you do it the first time.
-8. Click Create client ID
-9. Copy the Oauth Client ID
-10. Go to Settings > System Tab >Scroll down to Customer Account > Google Tab
+6. Seleccione el tipo de aplicación apropiado para su proyecto e ingrese cualquier información adicional requerida. Los tipos de aplicaciones se describen con más detalle en las siguientes secciones.
+7. Si es la primera vez que crea una ID de cliente, también puede configurar su pantalla de consentimiento haciendo clic en Pantalla de consentimiento. ([El siguiente procedimiento](https://support.google.com/cloud/answer/6158849?hl=en#userconsent\&zippy=%2Cuser-consent) explica cómo configurar la pantalla de consentimiento). No se le pedirá que configure la pantalla de consentimiento después de hacerlo la primera vez.
+8. Click en Crear client ID
+9. Copiar el Oauth Client ID
+10. Vaya a Configuración > Pestaña Sistema > Desplácese hacia abajo hasta Cuenta de cliente > Pestaña Google
 
     <figure><img src="../.gitbook/assets/Screen Shot 2023-10-13 at 4.55.59 AM.png" alt=""><figcaption></figcaption></figure>

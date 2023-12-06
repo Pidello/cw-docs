@@ -1,11 +1,13 @@
 ---
-description: Instructions on how to add special hours and closed dates in advance.
+description: >-
+  Instrucciones sobre cómo agregar horarios especiales y fechas de cierre con
+  anticipación.
 ---
 
-# Adding Closed Hours
+# Agregar horas cerradas
 
-Instructions on how to add closed dates and special hours to your store in advance. This is the recommended method for adding Holidays, Christmas closure hours and dates with different opening hours.
+Instrucciones sobre cómo agregar fechas de cierre y horarios especiales a tu tienda con anticipación. Este es el método recomendado para agregar días festivos, horarios de cierre de Navidad y fechas con diferentes horarios de apertura.
 
 {% embed url="https://youtu.be/MkcJjjBGa6w" %}
-Video instuctions for adding closed dates
+Instrucciones en video para agregar fechas cerradas
 {% endembed %}

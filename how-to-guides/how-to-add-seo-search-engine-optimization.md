@@ -1,21 +1,18 @@
 ---
 description: >-
-  You can add an SEO for your store. It makes your site discoverable and rank
-  high on search engines such as Google.
+  Puedes agregar un SEO para tu tienda. Hace que su sitio sea reconocible y
+  tenga una clasificación alta en motores de búsqueda como Google.
 ---
 
-# How to add SEO (Search Engine Optimization)
+# Como agregar SEO (Search Engine Optimization)
 
+### Pasos:
 
-
-### Steps:
-
-1. Log in to your account [https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
-2.  Go to Settings > Website > Search Engine Optimization
+1. Ingresa a tu cuenta  [https://admin.pidello.com/login](https://admin.pidello.com/login)
+2.  Vaya a Configuración > Sitio web > Optimización de motores de búsqueda
 
     <figure><img src="../.gitbook/assets/Screen Shot 2023-10-09 at 8.16.45 AM (1).png" alt=""><figcaption></figcaption></figure>
 3.  Fill out the details, then Save
 
-    <figure><img src="../.gitbook/assets/Screen Shot 2023-10-09 at 8.24.26 AM (1).png" alt=""><figcaption><p>Google typically displays the first 50-60 characters</p></figcaption></figure>
-4. You can also Integrate Google Analytics tracking to your ordering site to track visitors. Check this link [https://www.cloudwaitress.com/features/google-analytics/](https://www.cloudwaitress.com/features/google-analytics/) to more about Google Analytics.
-
+    <figure><img src="../.gitbook/assets/Screen Shot 2023-10-09 at 8.24.26 AM (1).png" alt=""><figcaption><p>Google suele mostrar los primeros 50 a 60 caracteres.</p></figcaption></figure>
+4. También puede integrar el seguimiento de Google Analytics en su sitio de pedidos para realizar un seguimiento de los visitantes. Mira este enlace [https://www.pidello.com/features/google-analytics/](https://www.cloudwaitress.com/features/google-analytics/) para obtener más información sobre Google Analytics.

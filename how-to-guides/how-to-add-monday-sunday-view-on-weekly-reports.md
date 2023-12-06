@@ -1,22 +1,23 @@
 ---
-description: Instructions on how to change Sunday-Monday reporting view to Monday-Sunday.
+description: >-
+  Instrucciones sobre cómo cambiar la vista de informes de domingo a lunes a
+  lunes a domingo.
 ---
 
-# How to change weekly reporting view
+# Cómo cambiar la vista de informes semanales
 
-Most stores reporting periods are defaulted to the US standard of Sunday-Monday weekly reporting. However, this standard is different in most other countries and can easily be adjusted following the
+La mayoría de los períodos de informes de las tiendas se ajustan de forma predeterminada al estándar estadounidense de informes semanales de domingo a lunes. Sin embargo, este estándar es diferente en la mayoría de los demás países y se puede ajustar fácilmente siguiendo las siguientes instrucciones:
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-How to change first day of the week on dashboard:
+Cómo cambiar el primer día de la semana en el panel:
 
-1. Go to Settings > General > First day of the week.
+1. Vaya a Configuración > General > Primer día de la semana.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-2\.  Choose desired day > Click “Save” and see the changes on the home dashboard.
+2. Elija el día deseado > Haga clic en "Guardar" y vea los cambios en el panel de inicio.
 
 <figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
-3\.  Filter out the Reports button by “Week” to see the changes.
-
+3. Filtre el botón Informes por "Semana" para ver los cambios.
