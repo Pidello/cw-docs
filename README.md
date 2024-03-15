@@ -20,5 +20,5 @@ description: >-
 {% endcontent-ref %}
 
 {% hint style="info" %}
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+I [Ir a Pidello](https://linktr.ee/PIDELLO)
 {% endhint %}

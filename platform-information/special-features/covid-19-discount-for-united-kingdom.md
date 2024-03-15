@@ -11,7 +11,7 @@ description: >-
 
 A continuación se muestra un ejemplo del descuento de COVID-19 aplicado al finalizar la compra.
 
-![Example of COVID-19 Discount working](../../.gitbook/assets/covid19-discount-image.png)
+![ejemplo de descuento por COVID-19 trabajando](../../.gitbook/assets/covid19-discount-image.png)
 
 ## Proceso de configuración
 

@@ -7,8 +7,8 @@ description: >-
 
 # Funciones Especiales y Nuevas
 
-{% content-ref url="public-holiday-surcharge.md" %}
-[public-holiday-surcharge.md](public-holiday-surcharge.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="make-service-pop-up-required.md" %}

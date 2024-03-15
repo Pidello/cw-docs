@@ -10,10 +10,6 @@ description: >-
 [customer-accounts.md](customer-accounts.md)
 {% endcontent-ref %}
 
-{% content-ref url="your-subscription-and-billing.md" %}
-[your-subscription-and-billing.md](your-subscription-and-billing.md)
-{% endcontent-ref %}
-
 {% content-ref url="special-features/" %}
 [special-features](special-features/)
 {% endcontent-ref %}

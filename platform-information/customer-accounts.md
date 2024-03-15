@@ -26,8 +26,8 @@ Los Clientes crean cuentas usando:
 
 ## Guías
 
-{% content-ref url="../how-to-guides/setup-facebook-login.md" %}
-[setup-facebook-login.md](../how-to-guides/setup-facebook-login.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Advertencias y problemas conocidos

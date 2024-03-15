@@ -10,8 +10,6 @@ Fecha**:** Febrero 7, 2023
 
 **Autor:** Equipo Pidello
 
-<figure><img src="../../.gitbook/assets/Delayed Order - Email Notification.png" alt=""><figcaption><p>Ejemplo de notificación por correo electrónico opcional para pedidos retrasados</p></figcaption></figure>
-
 ### Como utilizar
 
 ### 1. Ve a [admin.pidello.com](https://admin.pidello.com/)
@@ -33,6 +31,4 @@ Fecha**:** Febrero 7, 2023
 ![Captura de pantalla del Paso 6](https://images.tango.us/workflows/2fe2c70e-3b35-4563-b397-de3f3147ae04/steps/f30bd579-456c-4f6d-b343-4879cd5ab473/b65fafbf-15db-4fe3-9e39-b1bed324219d.png?crop=focalpoint\&fit=crop\&fp-x=0.4932\&fp-y=0.4862\&fp-z=2.9282\&w=1200)
 
 ### 7. Si elige 'Enviar correo electrónico', haga clic en el botón y se enviará una notificación por correo electrónico según el siguiente ejemplo.
-
-![Captura de pantalla del Paso 7](https://images.tango.us/workflows/2fe2c70e-3b35-4563-b397-de3f3147ae04/steps/0c6c8f94-58b2-4f27-a152-c0bc1f8516ce/8ad0487b-fa36-4f96-b449-85585afed3bf.png?crop=focalpoint\&fit=crop\&fp-x=0.5000\&fp-y=0.5000\&w=1200)
 
