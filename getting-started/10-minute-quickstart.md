@@ -6,10 +6,6 @@ description: >-
 
 # Inicio rápido de 10 minutos
 
-{% embed url="https://youtu.be/Cd171XS0IGI" %}
-Vídeo tutorial de inicio rápido
-{% endembed %}
-
 ## Pasos de inicio rápido
 
 1. Visita https://www.pidello.paragonmedia.mx/ and Regístrate para una cuenta.

@@ -57,7 +57,3 @@
     * [Hacer que la ventana emergente de servicio sea obligatoria](platform-information/special-features/make-service-pop-up-required.md)
     * [Descuento por COVID-19](platform-information/special-features/covid-19-discount-for-united-kingdom.md)
     * [Notificación por correo electrónico de pedido retrasado](platform-information/special-features/delayed-order-email-notification.md)
-* [Resellers](resellers/README.md)
-  * [Resumen](resellers/overview.md)
-  * [Empezar](resellers/getting-started.md)
-  * [Documentación](resellers/documentation.md)
