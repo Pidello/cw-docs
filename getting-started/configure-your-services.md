@@ -7,10 +7,6 @@ description: >-
 
 # Configura tus Servicios
 
-{% embed url="https://youtu.be/EUW9nZVAE68" %}
-Services video tutorial
-{% endembed %}
-
 Actualmente hay 4 servicios disponibles. Ellos son:
 
 * **Recoger en tienda (Pick Up):** pedidos que los clientes recogen en la tienda para llevar&#x20;

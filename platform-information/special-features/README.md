@@ -7,10 +7,6 @@ description: >-
 
 # Funciones Especiales y Nuevas
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="make-service-pop-up-required.md" %}
 [make-service-pop-up-required.md](make-service-pop-up-required.md)
 {% endcontent-ref %}

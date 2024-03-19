@@ -6,10 +6,6 @@ description: >-
 
 # Configura tu menú
 
-{% embed url="https://youtu.be/Nyyr2vwB1Io" %}
-Menu setup video tutorial
-{% endembed %}
-
 ## Proceso de configuración
 
 Los menús están organizados en una estructura de árbol. Los menús contienen categorías y las categorías contienen platos. El proceso de configuración general es el siguiente.

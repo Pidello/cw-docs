@@ -1,7 +1,7 @@
 ---
 description: >-
-  Comience a crear su cuenta, restaurante y configurar sus menús. Realice un
-  pedido de prueba y vea el proceso de gestión de pedidos.
+  Comience a crear su cuenta, y configurar sus menús. Realice un pedido de
+  prueba y vea el proceso de gestión de pedidos.
 ---
 
 # Inicio rápido de 10 minutos

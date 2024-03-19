@@ -7,10 +7,6 @@ description: >-
 
 # Personaliza tu diseño
 
-{% embed url="https://youtu.be/g3ibBakpqMU" %}
-Design video tutorial
-{% endembed %}
-
 ## Cómo personalizar su diseño
 
 1. Visita la página de configuración del restaurante y ve a la pestaña de diseño.
